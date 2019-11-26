@@ -1,0 +1,4108 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "label": "accompagner LE DEVELOPPEMENT",
+        "type": "objectif"
+      },
+      {
+        "id": "B960AB45-196D-6B82-E181-CE4F6E2098DB",
+        "label": "garantir UNE VIE DE QUALITE",
+        "type": "objectif"
+      },
+      {
+        "id": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "label": "répondre aux besoins en logements des résidents et des nouveaux arrivants",
+        "type": "objectif"
+      },
+      {
+        "id": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "label": "confirmer le rôle des pôles comme élément",
+        "type": "objectif"
+      },
+      {
+        "id": "2D108A76-4C40-094A-4DB8-8F1297CCDB38",
+        "label": "promouvoir des nouvelles formes urbaines et résidentielles du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "F816E3DD-B81D-7732-1451-DC14674C5944",
+        "label": "favoriser un urbanisme durable et respectueux du site",
+        "type": "objectif"
+      },
+      {
+        "id": "0CBF3D77-4A9D-CBC4-B5CB-3701391A4B98",
+        "label": "permettre le développement de l'ensemble",
+        "type": "objectif"
+      },
+      {
+        "id": "D854BB66-81C2-22E5-4473-891D7C694B2A",
+        "label": "affirmer le renouvellement urbain comme mode",
+        "type": "objectif"
+      },
+      {
+        "id": "6299DAF8-B25B-C20B-5DB8-BCAC805703A7",
+        "label": "confirmer le rôle des pôles secondaires",
+        "type": "objectif"
+      },
+      {
+        "id": "45F2E940-1FDD-7CCF-D0D3-E7812A15C301",
+        "label": "limiter l'extension urbaine",
+        "type": "objectif"
+      },
+      {
+        "id": "ED9E8D0C-7E69-02EA-A892-B71852BC4152",
+        "label": "encourager la densification de l'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "8056E81B-7EA4-9309-263B-D823762BF8E0",
+        "label": "prendre compte",
+        "type": "objectif"
+      },
+      {
+        "id": "43D82E60-64C6-0537-AC70-4C2511BE9EDF",
+        "label": "se inscrire dans les démarches départementale et régionale d'accès",
+        "type": "objectif"
+      },
+      {
+        "id": "CE14E556-F80F-3B13-B7FC-DE17F4D36149",
+        "label": "organiser déplacements et services selon la logique",
+        "type": "objectif"
+      },
+      {
+        "id": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "label": "proposer une offre de logements",
+        "type": "objectif"
+      },
+      {
+        "id": "B083D355-8753-4579-B32A-0E3D97B49D22",
+        "label": "réorganiser les mobilités dans une logique de développement durable",
+        "type": "objectif"
+      },
+      {
+        "id": "4FC3FC70-A632-BC78-83EB-5558B3230C28",
+        "label": "favoriser la réalisation de logements",
+        "type": "objectif"
+      },
+      {
+        "id": "FC19E106-F9B1-FBE5-61D5-EE30AAAEBEBA",
+        "label": "encourager l'inter modalité",
+        "type": "objectif"
+      },
+      {
+        "id": "AD907BA1-D676-8F83-98F6-B266419283E2",
+        "label": "se baser sur les points de mobilité",
+        "type": "objectif"
+      },
+      {
+        "id": "A611D5DB-11B5-57CB-BC68-E74BE1F389C6",
+        "label": "rechercher les alternatives",
+        "type": "objectif"
+      },
+      {
+        "id": "BF7ECEEA-6674-D475-1715-B628F9EE409D",
+        "label": "CREER",
+        "type": "objectif"
+      },
+      {
+        "id": "D40030E7-C0F9-8CF4-619A-2FBD232A2474",
+        "label": "revitaliser la fonction économique des centres-bourgs",
+        "type": "objectif"
+      },
+      {
+        "id": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "label": "permettre l'accueil et le développement des entreprises",
+        "type": "objectif"
+      },
+      {
+        "id": "9E2B23F5-D8A0-3D2E-69D7-528384C9389D",
+        "label": "protéger les espaces agricoles de la pression de l'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "B7C3F244-ACF4-E8CC-92DA-BB7FF16D7B7B",
+        "label": "assurer le maintien et l'adaptation de la fonction productive",
+        "type": "objectif"
+      },
+      {
+        "id": "EF1538CA-A1D8-F42D-3B82-988574038C24",
+        "label": "se fondre sur une localisation",
+        "type": "objectif"
+      },
+      {
+        "id": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "label": "Section a.",
+        "type": "objectif"
+      },
+      {
+        "id": "BA6EF793-1F2C-573F-7FAE-D201D0D809A2",
+        "label": "apporter un soin particulier aux espaces situés en entrées de ville",
+        "type": "objectif"
+      },
+      {
+        "id": "6D79BEAA-C1D9-FBE5-E37D-01DB856898CF",
+        "label": "assurer la fonction productive du littoral",
+        "type": "objectif"
+      },
+      {
+        "id": "47B4BA69-D7BA-6724-1DE6-EA8C4D6ACEA5",
+        "label": "encourager le développement durable de l'agriculture",
+        "type": "objectif"
+      },
+      {
+        "id": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "label": "Section c.",
+        "type": "objectif"
+      },
+      {
+        "id": "292FE48F-19CA-8167-FEB8-7849EBA444E4",
+        "label": "permettre le développement portuaire",
+        "type": "objectif"
+      },
+      {
+        "id": "41C859BA-1184-1C72-3DE4-4CBDAA490320",
+        "label": "endiguer le développement des zones d'activités en linéaire et littoral tout",
+        "type": "objectif"
+      },
+      {
+        "id": "0FB80B4E-2CCF-CF78-59FD-26B12B72E9C1",
+        "label": "permettre le maintien et le développement des zones",
+        "type": "objectif"
+      },
+      {
+        "id": "3BC8D654-C0DD-9CAD-4755-F36EC4168D5F",
+        "label": "permettre la diversification économique au sein des exploitations agricoles",
+        "type": "objectif"
+      },
+      {
+        "id": "A9E6A2FD-1DE3-CA87-EAC8-7CF0D37EE635",
+        "label": "préserver le potentiel touristique en lien avec l'espace agricole",
+        "type": "objectif"
+      },
+      {
+        "id": "C2914FBC-1E61-2D5B-ECAE-46645715A931",
+        "label": "valoriser la fonction économique de l'espace maritime",
+        "type": "objectif"
+      },
+      {
+        "id": "65332D8D-38ED-A76D-781E-5FF9AD416EAB",
+        "label": "permettre le développement d'équipements touristiques",
+        "type": "objectif"
+      },
+      {
+        "id": "A18A4AF4-A7C8-E1D9-4F46-C779FC9B843A",
+        "label": "Respecter",
+        "type": "objectif"
+      },
+      {
+        "id": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "label": "protéger valoriser l'espace littoral",
+        "type": "objectif"
+      },
+      {
+        "id": "6BC67420-28A5-93A2-20EB-623CEEA37A18",
+        "label": "limiter la vulnerabilite du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "label": "préserver les richesses écologiques du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "label": "Section 2 -",
+        "type": "objectif"
+      },
+      {
+        "id": "EA600B58-F520-2B38-9AE7-E207ED42B975",
+        "label": "limiter les besoins en énergie et les émissions de gaz",
+        "type": "objectif"
+      },
+      {
+        "id": "D54588AB-7B83-0E09-473C-64F2856F24C7",
+        "label": "garantir la plurifonctionnalité de la trame verte et bleue",
+        "type": "objectif"
+      },
+      {
+        "id": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "label": "affirmer la protection des espaces",
+        "type": "objectif"
+      },
+      {
+        "id": "2127F23A-329A-97F0-CD71-EED2477D120D",
+        "label": "permettre le développement des villages",
+        "type": "objectif"
+      },
+      {
+        "id": "39A632C4-0653-A58E-95F1-0A4AE86E880C",
+        "label": "favoriser les continuités écologiques",
+        "type": "objectif"
+      },
+      {
+        "id": "A31A93B6-E5CD-5F8A-69FB-932C93236832",
+        "label": "identifier les coupures d'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "B6780DFB-1C1D-DB85-3035-A90BDA8C14B4",
+        "label": "permettre l'évolution de l'hôtellerie de plein air",
+        "type": "objectif"
+      },
+      {
+        "id": "97460573-C897-D6D7-8E79-A17846BD40C7",
+        "label": "promouvoir une exploitation durable des ressources",
+        "type": "objectif"
+      },
+      {
+        "id": "145176E7-A28E-0139-FDD7-B1E63205A369",
+        "label": "préserver le patrimoine bâti",
+        "type": "objectif"
+      },
+      {
+        "id": "20C5FD56-815C-4695-B68D-B6779B284CC1",
+        "label": "valoriser les paysages du Pays de Saint-Brieuc",
+        "type": "objectif"
+      },
+      {
+        "id": "BA337981-A820-49E7-2B5A-0964949B8674",
+        "label": "favoriser la bonne intégration paysagère des projets",
+        "type": "objectif"
+      },
+      {
+        "id": "A4FFEBEF-BCFA-E7AF-BBEA-F9F92E92E305",
+        "label": "limiter les impacts de l'exploitation du sous-sol",
+        "type": "objectif"
+      },
+      {
+        "id": "8900ACB6-2E83-91E4-3B18-7874AB7F9118",
+        "label": "limiter l'extension de l'urbanisation dans les espaces proches du rivage",
+        "type": "objectif"
+      },
+      {
+        "id": "3F9297BF-183F-89EE-B8D4-ECA2A2721628",
+        "label": "identifier les principaux",
+        "type": "objectif"
+      },
+      {
+        "id": "088AF4BA-B149-1E9D-7EB8-9A492B9C5A8A",
+        "label": "interdire toute construction dans la bande",
+        "type": "objectif"
+      },
+      {
+        "id": "7BE85D93-AF51-9866-52AE-80BE6EFC3F51",
+        "label": "limiter l'accentuation des pressions foncières dans les zones",
+        "type": "objectif"
+      },
+      {
+        "id": "A85CB9C7-B038-EB14-278D-C11B3D47EA74",
+        "label": "tenir compte de la capacité d'accueil du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "7EE09E5C-3E53-650E-EFC4-574C0EB76EF6",
+        "label": "tenir compte des nuisances sonores dans les projets d'aménagement",
+        "type": "objectif"
+      },
+      {
+        "id": "C0A0689A-E3F4-6FE5-FCAA-6D37270E2BC8",
+        "label": "adapter la collecte",
+        "type": "objectif"
+      },
+      {
+        "id": "1896D0C5-F606-CE3D-7478-07987865FD00",
+        "label": "mettre EN PLACE DES OUTILS ET UNE GOUVERNANCE",
+        "type": "objectif"
+      },
+      {
+        "id": "E5A35CF3-5F3F-DD3C-ADDE-573DDB405C85",
+        "label": "assurer le suivi et la mise en œuvre du Scot du pays de Saint-Brieuc",
+        "type": "objectif"
+      },
+      {
+        "id": "1C92E0B9-04F9-D8ED-6D98-144DCFCF497C",
+        "label": "développer les coopérations territoriales",
+        "type": "objectif"
+      },
+      {
+        "id": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "label": "réfléchir à la mise en place d'outils communs",
+        "type": "objectif"
+      },
+      {
+        "id": "9EBB6D5C-4BE5-A611-CCE5-BC471B35C1B7",
+        "label": "accroître l'attractivité du pays",
+        "type": "objectif"
+      },
+      {
+        "id": "2059B401-1C98-57CE-CA48-95BE4D2E8EEB",
+        "label": "renforcer les fonctions urbaines et Saint-Donan et Saint-Julien",
+        "type": "objectif"
+      },
+      {
+        "id": "5008ECCF-C9E6-448F-0BAF-BADBB89F14B9",
+        "label": "réduire l'espace",
+        "type": "objectif"
+      },
+      {
+        "id": "BAFEE16C-08F1-4E8F-265F-8669BCB47548",
+        "label": "instaurer de développement de l'habitat",
+        "type": "objectif"
+      },
+      {
+        "id": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "label": "permettre le développement",
+        "type": "objectif"
+      },
+      {
+        "id": "9EF5BA99-2F4A-54E7-6E31-394F4E631B6E",
+        "label": "conforter les pôles existants",
+        "type": "objectif"
+      },
+      {
+        "id": "D98F0BC8-EE80-E221-C312-92093B616017",
+        "label": "affirmer le poids de augmentation",
+        "type": "objectif"
+      },
+      {
+        "id": "4AF640EC-3117-8787-5FE7-E0BE4895F415",
+        "label": "venir les répercussions sur les espaces",
+        "type": "objectif"
+      },
+      {
+        "id": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "label": "assurer la fonction productive",
+        "type": "objectif"
+      },
+      {
+        "id": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "label": "confirmer le rôle des pôles",
+        "type": "objectif"
+      },
+      {
+        "id": "C2E96161-4E1C-B3B3-BD53-955C5FC62502",
+        "label": "conforter estimation",
+        "type": "objectif"
+      },
+      {
+        "id": "38780412-B889-3DA1-0833-FEFD8787505E",
+        "label": "limiter les impacts sur les milieux",
+        "type": "objectif"
+      },
+      {
+        "id": "DAB3B80D-FA52-AE2C-3ADC-9476ACD71BEB",
+        "label": "permettre une meilleure répartition et une meilleure lecture de la localisation",
+        "type": "objectif"
+      },
+      {
+        "id": "C2C99AA0-8EF7-B2CD-3183-08A7362CD6C2",
+        "label": "répondre aux objectifs de moindre émission de gaz",
+        "type": "objectif"
+      },
+      {
+        "id": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "label": "Section b.",
+        "type": "objectif"
+      },
+      {
+        "id": "6700D3DB-58C2-DD53-0208-310E59723E92",
+        "label": "structurer la politique",
+        "type": "objectif"
+      },
+      {
+        "id": "F06A2B90-3953-A0EB-0C8D-304CDD975CB6",
+        "label": "positionner l'Agglomération",
+        "type": "objectif"
+      },
+      {
+        "id": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "label": "organiser déplacements",
+        "type": "objectif"
+      },
+      {
+        "id": "3F7F90D8-793B-C3E5-F64D-BB6D6DE42AC6",
+        "label": "accompagner le développement démographique du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "5A29D14F-38E5-99D8-BCDC-86834E3A745A",
+        "label": "conjuguer accueil de population nouvelle",
+        "type": "objectif"
+      },
+      {
+        "id": "B79ECBBF-9818-AA4F-6D9D-591595254A3D",
+        "label": "garantir une vie de qualité",
+        "type": "objectif"
+      },
+      {
+        "id": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "label": "encourager la densification des bâtiments",
+        "type": "objectif"
+      },
+      {
+        "id": "9DC12D7B-A3FE-98CE-3C6E-03645117C35B",
+        "label": "se loger périphérique notable",
+        "type": "objectif"
+      },
+      {
+        "id": "60840CDF-A5A7-9623-84AB-8E47F2DFB295",
+        "label": "permettre le développement secondaires",
+        "type": "objectif"
+      },
+      {
+        "id": "918BEBB7-A4CE-73C8-3B95-2FE8FFFE0507",
+        "label": "promouvoir S'",
+        "type": "objectif"
+      },
+      {
+        "id": "D824D4CF-26CC-61EE-6634-D8646A9BD7D3",
+        "label": "diversifier les fonctions des pôles littoraux",
+        "type": "objectif"
+      },
+      {
+        "id": "CB55DF20-E910-3613-EE9D-89B7869DFFBC",
+        "label": "créer les conditions",
+        "type": "objectif"
+      },
+      {
+        "id": "4CC5EBBF-857F-E2CD-898D-BA19152FEB96",
+        "label": "favoriser la réalisation",
+        "type": "objectif"
+      },
+      {
+        "id": "8CAEA2E4-51CA-D851-A83E-74836F6ABEA0",
+        "label": "favoriser le déploiement des infras- structuration du développement de l'espace",
+        "type": "objectif"
+      },
+      {
+        "id": "3DE44E66-8A4C-90D2-4A69-CC0B74FA27C8",
+        "label": "organiser le déve",
+        "type": "objectif"
+      },
+      {
+        "id": "C8B3CA01-6575-9568-F386-77AE06E62306",
+        "label": "consolider le rôle de Lamballe",
+        "type": "objectif"
+      },
+      {
+        "id": "268059E7-C5B6-BB0D-90CF-DD432E334840",
+        "label": "confirmer le RÔLE DES Pôles comme élément",
+        "type": "objectif"
+      },
+      {
+        "id": "F4583727-D392-B093-A67D-70FB1817D60F",
+        "label": "jouer un rôle",
+        "type": "objectif"
+      },
+      {
+        "id": "E745DA43-47EC-7C9D-0A04-9C8E6DF57124",
+        "label": "répondre aux besoins en logements des résidents de logements",
+        "type": "objectif"
+      },
+      {
+        "id": "646B0005-44AD-62DE-1FCE-DB6679C34D68",
+        "label": "conjuguer développement du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "D6A8CD80-D808-4D49-8862-D1486F962318",
+        "label": "garantir le dynamisme des pôles ruraux",
+        "type": "objectif"
+      },
+      {
+        "id": "811BF316-C740-D3BC-16E9-256BD0E6F402",
+        "label": "maintenir une dynamique complémentarités",
+        "type": "objectif"
+      },
+      {
+        "id": "1E5C49EB-79AF-2862-C772-DD91D93E6C48",
+        "label": "articuler de façon cohérente",
+        "type": "objectif"
+      },
+      {
+        "id": "C44A2FDD-3D4D-9B38-A122-7C828C15A0E5",
+        "label": "apporter la réponse",
+        "type": "objectif"
+      },
+      {
+        "id": "269A5C5F-6079-DCC9-2F86-4D6AA9FD8E8E",
+        "label": "poursuivre un objectif général de qualité",
+        "type": "objectif"
+      },
+      {
+        "id": "2E726764-D258-C053-BCFE-585725585CF8",
+        "label": "favoriser un urbanisme durable",
+        "type": "objectif"
+      },
+      {
+        "id": "0AE9F9B4-D8DA-289F-00EA-E87BC74E6DF2",
+        "label": "préconiser la mise en La limitation de l'étalement urbain",
+        "type": "objectif"
+      },
+      {
+        "id": "D96CF84C-9270-682B-794C-0CE654202050",
+        "label": "composer construire le projet",
+        "type": "objectif"
+      },
+      {
+        "id": "7993C74C-4E11-2354-79D8-C9F115B83F0C",
+        "label": "offrir un cadre de vie de qualité",
+        "type": "objectif"
+      },
+      {
+        "id": "5D9C6169-D28B-6B70-D9C9-C151EA4088B4",
+        "label": "accueillir le développement",
+        "type": "objectif"
+      },
+      {
+        "id": "206C12F6-1B01-5E5F-A981-2579E135E774",
+        "label": "faciliter l'orientation sud",
+        "type": "objectif"
+      },
+      {
+        "id": "E938C447-7677-1B89-69CA-584A2F5AEE0E",
+        "label": "soutenir les innovations",
+        "type": "objectif"
+      },
+      {
+        "id": "F58DD2C7-6834-DF04-F4A9-69B501351968",
+        "label": "promouvoir des nouvelles formes urbaines dans un quadruple objectif",
+        "type": "objectif"
+      },
+      {
+        "id": "55B2C267-9C52-9FC0-9297-1D88A440EFFD",
+        "label": "lutter contre la fragilité d'approvi",
+        "type": "objectif"
+      },
+      {
+        "id": "BA565104-858E-5AC9-8384-93E8209ED81A",
+        "label": "mouvoir des usages et de la multiplication",
+        "type": "objectif"
+      },
+      {
+        "id": "10DC8D7C-FFCF-D3E5-0DD3-3EE1456072F2",
+        "label": "faire le lien entre le été",
+        "type": "objectif"
+      },
+      {
+        "id": "2DFC1FF9-C622-888B-7992-A69AD97B800C",
+        "label": "être la prise en compte",
+        "type": "objectif"
+      },
+      {
+        "id": "D891E37A-C4D3-69F0-8483-5079E001A486",
+        "label": "accueillir ces habitants supplémentaires",
+        "type": "objectif"
+      },
+      {
+        "id": "DDF971C0-0A7B-BEB8-C358-9C6943E2CD1D",
+        "label": "promouvoir l'amélioration de la performance énergétique de l'habitat existant",
+        "type": "objectif"
+      },
+      {
+        "id": "7EBE7DBB-4D66-1C87-EA3D-2491F4E7B01F",
+        "label": "affirmer le renouvellement",
+        "type": "objectif"
+      },
+      {
+        "id": "3AE5F3C5-D0D6-2C6E-8592-39F7D4921BC7",
+        "label": "mettre place",
+        "type": "objectif"
+      },
+      {
+        "id": "5830ACA2-0508-AF3B-9B3B-2D647816CA47",
+        "label": "prendre en compte les caractéristiques bioclimatiques",
+        "type": "objectif"
+      },
+      {
+        "id": "E79BD6CC-9BAB-E6F7-A6BD-E3F4DB06E848",
+        "label": "promouvoir la performance énergétique",
+        "type": "objectif"
+      },
+      {
+        "id": "3F3BB724-7B0E-4E89-FF3D-9BB4FB96789D",
+        "label": "limiter les seaux d'assainissement performants",
+        "type": "objectif"
+      },
+      {
+        "id": "8AAA8C60-19B8-2734-4F9F-2027D9DE43FF",
+        "label": "diversifier l'offre",
+        "type": "objectif"
+      },
+      {
+        "id": "C0042AA2-6389-0D7A-42ED-4FD3556E1AAC",
+        "label": "limiter le phénomène",
+        "type": "objectif"
+      },
+      {
+        "id": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "label": "réorganiser les mobilités dans une logique du réaménagement de la gare de Saint-Brieuc",
+        "type": "objectif"
+      },
+      {
+        "id": "2AEB1637-E8D0-23AE-EE9A-8F76C9DF104E",
+        "label": "promouvoir logements par hectare",
+        "type": "objectif"
+      },
+      {
+        "id": "A8BE803E-B169-6580-4AC0-B5A4EA5934C8",
+        "label": "économiser l'espace",
+        "type": "objectif"
+      },
+      {
+        "id": "66689DA3-2A45-C3C1-04B2-066F2804BF02",
+        "label": "se adapter au contexte urbain",
+        "type": "objectif"
+      },
+      {
+        "id": "20E95A88-3EC6-D413-5D93-CE127DF36AFF",
+        "label": "rappeler le caractère prioritaire",
+        "type": "objectif"
+      },
+      {
+        "id": "26EC443E-B211-D120-6560-9F45CCDAAB5C",
+        "label": "lier implantation de cheminements",
+        "type": "objectif"
+      },
+      {
+        "id": "96990263-0B32-D741-B1D3-EC6A040E1EA9",
+        "label": "réduire les temps de trajet entre les villes",
+        "type": "objectif"
+      },
+      {
+        "id": "520C6BA7-326F-11DC-8B35-12D490387CC7",
+        "label": "repenser ces mobilités",
+        "type": "objectif"
+      },
+      {
+        "id": "F3AA945F-3DB9-CDDF-E43F-375D3895715D",
+        "label": "accentuer les opportunités de connexion",
+        "type": "objectif"
+      },
+      {
+        "id": "D83DED62-0A80-440E-32AB-0BB47F7ADA6A",
+        "label": "agir à des transports en commun",
+        "type": "objectif"
+      },
+      {
+        "id": "7C73A3E5-AC24-BD6C-5E13-211BBEBE9213",
+        "label": "souligner le caractère prioritaire",
+        "type": "objectif"
+      },
+      {
+        "id": "DD20679A-9D9C-8220-17C3-8AD15C21831D",
+        "label": "se baser sur les points",
+        "type": "objectif"
+      },
+      {
+        "id": "E0736ED6-446A-B774-C87B-3DF4E7FAF851",
+        "label": "proposer aux habitants",
+        "type": "objectif"
+      },
+      {
+        "id": "7374DC0D-D12C-B32E-305F-8123C1D21379",
+        "label": "relever le défi lancé et usages",
+        "type": "objectif"
+      },
+      {
+        "id": "6DF602B4-9949-6139-2958-A260B104913E",
+        "label": "conforter pas",
+        "type": "objectif"
+      },
+      {
+        "id": "61AD4DDA-2139-E834-957F-6483FA20CEB9",
+        "label": "intégrer les aménagements",
+        "type": "objectif"
+      },
+      {
+        "id": "E6D240D9-0AB0-DCDD-E4BA-3D8D94C724E0",
+        "label": "assumer tien de la vitalité",
+        "type": "objectif"
+      },
+      {
+        "id": "A737FF1A-3468-81AA-37E9-CFB0C4B7750E",
+        "label": "doter le terri",
+        "type": "objectif"
+      },
+      {
+        "id": "C94EE733-7D3E-3B56-1850-A7FA644EFA91",
+        "label": "assurer les conditions favorables au déve",
+        "type": "objectif"
+      },
+      {
+        "id": "66C62F62-E95D-6365-6407-C24CA9325A04",
+        "label": "polariser le développement du Pays",
+        "type": "objectif"
+      },
+      {
+        "id": "8B5D44B9-F751-9369-96BB-78AA4DDB71DC",
+        "label": "conférer à la Ville",
+        "type": "objectif"
+      },
+      {
+        "id": "F0764BC6-5370-6008-CCAC-DABD502B756F",
+        "label": "réaliser les travaux",
+        "type": "objectif"
+      },
+      {
+        "id": "2973F866-C2EA-05E5-0C80-948B905FE18A",
+        "label": "inciter à la mobilisation d'outils de mai- lement",
+        "type": "objectif"
+      },
+      {
+        "id": "40CDFB7E-36FE-B720-D3EE-3EA16EC3B553",
+        "label": "ériger ces velles",
+        "type": "objectif"
+      },
+      {
+        "id": "15C5319F-E16A-4D39-29FB-98E324E9F80E",
+        "label": "prévoir des moyens de dessertes alternatifs",
+        "type": "objectif"
+      },
+      {
+        "id": "43357BC9-B5DF-CEC1-89D5-F34875895538",
+        "label": "avoir un impact en termes d'aug",
+        "type": "objectif"
+      },
+      {
+        "id": "22F7E1E7-5116-252E-E198-663968A2DF77",
+        "label": "développer l'usage des modes de dépla",
+        "type": "objectif"
+      },
+      {
+        "id": "64F1008E-041A-9A32-2FD7-C5DE5903CF7D",
+        "label": "permettre la remise en service Des parkings",
+        "type": "objectif"
+      },
+      {
+        "id": "B839011E-B3B4-88DA-122A-3386D257EEA9",
+        "label": "répondre à cet objectif",
+        "type": "objectif"
+      },
+      {
+        "id": "81E7ADC5-77A2-869B-FEC0-EB67DB975555",
+        "label": "inciter à la mise en Le",
+        "type": "objectif"
+      },
+      {
+        "id": "6876528A-FE44-9445-DBAF-5095D3CE8DCC",
+        "label": "réduire les distances",
+        "type": "objectif"
+      },
+      {
+        "id": "9E69527D-1B46-8D9C-5A0A-17259ABEF244",
+        "label": "remédier à la couverture des zones",
+        "type": "objectif"
+      },
+      {
+        "id": "F1A7E3CD-AB1E-E884-8DB9-EE69348EC8FA",
+        "label": "déstabiliser le commerce du centre-ville en raison",
+        "type": "objectif"
+      },
+      {
+        "id": "EC43F4D5-963B-23DE-73B5-EA46164066B1",
+        "label": "conforter les services et Lamballe",
+        "type": "objectif"
+      },
+      {
+        "id": "BF7CE463-503A-8499-A4BF-C8B578677B1A",
+        "label": "faire de ces espaces",
+        "type": "objectif"
+      },
+      {
+        "id": "B1742631-557F-5237-E695-D02F5FFC7642",
+        "label": "encourager les initiatives",
+        "type": "objectif"
+      },
+      {
+        "id": "56DAA099-C866-E7C5-3CC4-5C17A183E14F",
+        "label": "tenir compte de la logique St",
+        "type": "objectif"
+      },
+      {
+        "id": "5287854D-EDF8-71A3-03CE-D788205B87B1",
+        "label": "permettre l'accueil et le développement des entreprises Dans le but",
+        "type": "objectif"
+      },
+      {
+        "id": "AAC8010B-8093-679A-2AA7-E23AE4E01E16",
+        "label": "diminuer l'usage individuel de la voiture au bénéfice des transports",
+        "type": "objectif"
+      },
+      {
+        "id": "E5A48288-A6EF-3BC1-6561-6F8AFC0D6EB2",
+        "label": "créer les conditions d'un développement économique",
+        "type": "objectif"
+      },
+      {
+        "id": "53F0E1AC-AA66-2CC4-F64D-AC31F77F1E55",
+        "label": "inciter des investissements",
+        "type": "objectif"
+      },
+      {
+        "id": "FE689E69-87F4-3C88-7C72-3B30D3BA93D8",
+        "label": "adapter bain",
+        "type": "objectif"
+      },
+      {
+        "id": "96EF90C2-1547-BF50-AC0A-CCC2BFFC45B9",
+        "label": "permettre les aménagements nécessaires de certains échangeurs routiers",
+        "type": "objectif"
+      },
+      {
+        "id": "B1630906-D38C-87ED-8023-06385978681D",
+        "label": "préserver les terres",
+        "type": "objectif"
+      },
+      {
+        "id": "AB71C02F-7CD4-EB90-782C-DD06AEE7DD60",
+        "label": "enrayer cette tendance",
+        "type": "objectif"
+      },
+      {
+        "id": "F3B6C417-7BB7-66DB-3212-5215E9A6248F",
+        "label": "transcender les tidiens",
+        "type": "objectif"
+      },
+      {
+        "id": "0EDBEC2F-7E28-8D94-CA29-6EF7DB997381",
+        "label": "optimiser l'usage de la voiture",
+        "type": "objectif"
+      },
+      {
+        "id": "61615FB8-C687-2458-FEEB-3503D7514193",
+        "label": "tenir compte des points de réseau de transport collectif sur le territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "CCB2403F-547D-F01F-D0ED-7611F043375D",
+        "label": "encourager l'usage des transports collectifs",
+        "type": "objectif"
+      },
+      {
+        "id": "D828E53E-4C27-2E6D-1CEF-22DA2EEDB6B2",
+        "label": "tenir compte de port",
+        "type": "objectif"
+      },
+      {
+        "id": "8C36D11D-A05F-A884-55CE-034D9316C41B",
+        "label": "prendre appui",
+        "type": "objectif"
+      },
+      {
+        "id": "F1690085-1D1B-7860-5487-DC4D23CFC96A",
+        "label": "être un maitrise des flux",
+        "type": "objectif"
+      },
+      {
+        "id": "B06FC7A5-7FBF-EB9C-600D-C459B99E793E",
+        "label": "recevoir ces flux",
+        "type": "objectif"
+      },
+      {
+        "id": "5F81209A-F48E-C7F2-683B-844BE2C3BA2B",
+        "label": "être portée",
+        "type": "objectif"
+      },
+      {
+        "id": "EDDDB6EF-120F-0775-D563-863362254184",
+        "label": "poursuivre dans les projets",
+        "type": "objectif"
+      },
+      {
+        "id": "9D7BA6DB-FF96-2900-4FD3-7E90EC6EEF56",
+        "label": "connaître les espaces disponibles au sein des sés",
+        "type": "objectif"
+      },
+      {
+        "id": "C0E75474-3899-B134-ACD9-3A52526CD71B",
+        "label": "privilégier lac- travers de l'élaboration du Document d'Aménagecueil des activités de préférence en centralités",
+        "type": "objectif"
+      },
+      {
+        "id": "58543FF1-72F8-F8D9-7E3A-447489B0B8FA",
+        "label": "permettre à tout",
+        "type": "objectif"
+      },
+      {
+        "id": "F30B38AE-396F-6D97-37F0-B6728D896D5D",
+        "label": "assurer le continuum des services de transport collectif",
+        "type": "objectif"
+      },
+      {
+        "id": "748B7F59-1B92-0AA0-0D66-D3E90CDCDC7F",
+        "label": "rechercher une organi- déplacements de la vie quotidienne",
+        "type": "objectif"
+      },
+      {
+        "id": "C5B32FC9-2BE6-FD89-6E63-25337A9C5804",
+        "label": "atteindre l'objectif",
+        "type": "objectif"
+      },
+      {
+        "id": "1656C1DE-0B96-B069-0F82-D223C692AF65",
+        "label": "exploiter à des fins commerciales",
+        "type": "objectif"
+      },
+      {
+        "id": "F5E18482-E7B2-324F-A779-613BCFF63C71",
+        "label": "encourager sur des secteurs",
+        "type": "objectif"
+      },
+      {
+        "id": "DB73819B-2DBD-C6B2-39B4-FD7BB579F464",
+        "label": "contribuer à redynamiser",
+        "type": "objectif"
+      },
+      {
+        "id": "B230AE88-D126-793A-F60B-40814B086486",
+        "label": "compléter l'offre en parcs",
+        "type": "objectif"
+      },
+      {
+        "id": "36FAF519-9CFE-B097-A308-98730350F9B0",
+        "label": "renforcer l'attractivité du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "7F7906AA-815E-C486-2DD1-74FE7B08F868",
+        "label": "adapter des propositions de déplacement",
+        "type": "objectif"
+      },
+      {
+        "id": "EC18C09E-6427-7DD7-7267-3DA2CE35C38E",
+        "label": "contrecarrer la tendance",
+        "type": "objectif"
+      },
+      {
+        "id": "81B70412-AED7-48D2-F4D3-8080CF6CCC79",
+        "label": "envisager la création",
+        "type": "objectif"
+      },
+      {
+        "id": "8A31246B-E85B-3C22-9066-1FD3EF9F3B6A",
+        "label": "développer des services fondamentaux de Le territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "A4E57630-A81D-32CA-0B29-FC7B7CDCAB02",
+        "label": "privilégier tout développement",
+        "type": "objectif"
+      },
+      {
+        "id": "E777D0A1-6A82-2C86-B3E0-FF1D348A755C",
+        "label": "être Des projets",
+        "type": "objectif"
+      },
+      {
+        "id": "2FDBBF44-3502-C645-9769-791786F8F741",
+        "label": "répondre aux demandes",
+        "type": "objectif"
+      },
+      {
+        "id": "FC9604C8-23F5-AB59-D5FD-C945EE1A0B13",
+        "label": "accueillir de nouvelles entreprises",
+        "type": "objectif"
+      },
+      {
+        "id": "B5BB6301-AF23-2415-3650-9EBC9018E99B",
+        "label": "conforter la capacité d'hébergement touristique du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "7701B587-73DE-5AF4-A8B4-32ABC77464D2",
+        "label": "disposer d'un parc d'héberge- bâti",
+        "type": "objectif"
+      },
+      {
+        "id": "B5E1DD5A-678B-E84C-6139-353B16D32A16",
+        "label": "répondre à des conditions",
+        "type": "objectif"
+      },
+      {
+        "id": "725BF450-3FEB-A45A-E641-837A6B54676C",
+        "label": "apporter un soin particulier d'Aménagement",
+        "type": "objectif"
+      },
+      {
+        "id": "952CB9ED-6FA4-E62E-B053-92EE0909C8B2",
+        "label": "permettre de propo",
+        "type": "objectif"
+      },
+      {
+        "id": "527718DB-8CB6-9CD6-ADE4-83189B21C0E4",
+        "label": "se envisager sur les zones d'activi",
+        "type": "objectif"
+      },
+      {
+        "id": "673C34F6-B6D3-9B3F-BDF8-3243A761B8A0",
+        "label": "assurer le maintien",
+        "type": "objectif"
+      },
+      {
+        "id": "240E7720-8B73-3D51-1463-FDFC2D15DBCA",
+        "label": "se appuyer sur l'organisation urbaine du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "C08B3032-6815-D7C8-CC6B-B41BB1BBD498",
+        "label": "privilégier la réaf",
+        "type": "objectif"
+      },
+      {
+        "id": "D8B4BA34-8944-2AAB-B120-35593EAE48DA",
+        "label": "se envisager sur tout et préservation des ressources",
+        "type": "objectif"
+      },
+      {
+        "id": "36AD68E7-4571-32EA-3312-059947AF6874",
+        "label": "atteindre une fréquentation",
+        "type": "objectif"
+      },
+      {
+        "id": "11CAA2B6-2848-907F-1FA8-918046C2C63B",
+        "label": "respecter des exigences en matière de qualité",
+        "type": "objectif"
+      },
+      {
+        "id": "87F8EF1C-7D20-0011-85C8-557DB2361636",
+        "label": "satisfaire le public",
+        "type": "objectif"
+      },
+      {
+        "id": "FDD7A9C8-D9D8-BA37-8C1E-22D6B8D81C9C",
+        "label": "avoir un impact significatif sur l'organisation du L'inventaire des friches",
+        "type": "objectif"
+      },
+      {
+        "id": "AA787537-4D4B-BD76-0385-A9CF4B4AC276",
+        "label": "accueillir les touristes plusieurs",
+        "type": "objectif"
+      },
+      {
+        "id": "DF72E08B-63B6-BB74-1B47-F3E2D071D5AB",
+        "label": "garantir l'attractivité du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "7D7D3AA1-F4B5-E47E-A4A4-F587A5A89617",
+        "label": "privilégier une moindre imperméabilisation des sols et un traitement des eaux pluviales",
+        "type": "objectif"
+      },
+      {
+        "id": "3AB81D05-EB70-BB23-A5D6-FE321EA706A8",
+        "label": "envisager une performance énergétique des Considérant",
+        "type": "objectif"
+      },
+      {
+        "id": "C6630E76-0EBB-26D2-9098-34EA8BC8FAE5",
+        "label": "proposer des abords de qualité",
+        "type": "objectif"
+      },
+      {
+        "id": "F77BA403-40ED-C7FA-0667-897028F38257",
+        "label": "protéger les espaces agricoles",
+        "type": "objectif"
+      },
+      {
+        "id": "F96E13BF-CB91-CFD9-A2E4-B6CF3371F7CA",
+        "label": "trouver la RN",
+        "type": "objectif"
+      },
+      {
+        "id": "42313860-4057-6794-B6F2-57DE97EDA542",
+        "label": "préserver le potentiel de produc",
+        "type": "objectif"
+      },
+      {
+        "id": "0475A759-D180-8F57-D4E9-23790C3D8380",
+        "label": "stopper l'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "55E13960-EDA9-6E0E-CF2E-91DBCE3C6ADC",
+        "label": "préserver l'espace agricole",
+        "type": "objectif"
+      },
+      {
+        "id": "A3186998-08C9-6F61-BC30-7169CC25AB30",
+        "label": "optimiser les conditions d'approvi- cier",
+        "type": "objectif"
+      },
+      {
+        "id": "5C235E1D-C362-64EE-3972-CAC94FDDE764",
+        "label": "limiter l'impact",
+        "type": "objectif"
+      },
+      {
+        "id": "833A80AD-5F62-13A2-72C0-E2EFDDE130E8",
+        "label": "respecter l'intégration",
+        "type": "objectif"
+      },
+      {
+        "id": "EDAC488C-0C6B-7264-6311-64ED1FC82A7A",
+        "label": "inciter les projets d'implan",
+        "type": "objectif"
+      },
+      {
+        "id": "4B691711-00B5-3CC8-EDB5-AA3395D76E5D",
+        "label": "endiguer le développement",
+        "type": "objectif"
+      },
+      {
+        "id": "F29B6F46-2446-4EE6-3420-4DF9C597A5B2",
+        "label": "privilégier la réhabilitation",
+        "type": "objectif"
+      },
+      {
+        "id": "016B18A7-DEB7-3C62-F025-654606520196",
+        "label": "encourager le développement",
+        "type": "objectif"
+      },
+      {
+        "id": "24C37D0C-4454-3237-2523-25D4E9990865",
+        "label": "préserver le potentiel touristique de la pression de l'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "B2E5E8AC-D3A1-D2AC-18D1-57CF99AB10CC",
+        "label": "envisager tout projet d'extension",
+        "type": "objectif"
+      },
+      {
+        "id": "23FFA711-0E45-224D-BFE5-1F650F153C3D",
+        "label": "faciliter espaces libres ou mal",
+        "type": "objectif"
+      },
+      {
+        "id": "0FFBB101-2E30-75F2-C5E2-4D1613ABA75D",
+        "label": "permettre la diversification",
+        "type": "objectif"
+      },
+      {
+        "id": "E5441DEF-676F-5CC0-9064-16F01C3DAF55",
+        "label": "préserver les souci de connexion",
+        "type": "objectif"
+      },
+      {
+        "id": "A1340802-54D4-D9FC-45F9-BEA0B9CF9D9F",
+        "label": "utiliser les mique identitaire de l'espace et constitutive",
+        "type": "objectif"
+      },
+      {
+        "id": "306D15AF-3648-5477-53AA-FCBC646C4E3A",
+        "label": "implanter l'habitat",
+        "type": "objectif"
+      },
+      {
+        "id": "76717883-B3F3-02B9-FBB4-C65C6394B28B",
+        "label": "se avérer essentielle activités humaines",
+        "type": "objectif"
+      },
+      {
+        "id": "DF4EDCC9-CB70-BA32-E4D1-8D39C56C15E7",
+        "label": "concilier développement",
+        "type": "objectif"
+      },
+      {
+        "id": "B49C4188-732D-E449-8EEC-ACC84E94B6B9",
+        "label": "protéger de la conjoncture",
+        "type": "objectif"
+      },
+      {
+        "id": "808C4F47-E42A-30B2-F5E9-CBDF2D49D3E0",
+        "label": "permettre le maintien et le sance et de pêche",
+        "type": "objectif"
+      },
+      {
+        "id": "3D605497-49A6-C7A2-D052-92D7BF6AB30D",
+        "label": "encourager le développement logique et paysagère",
+        "type": "objectif"
+      },
+      {
+        "id": "0C77C4EE-DB2A-88F8-C84C-5673A0B750CC",
+        "label": "concerner la location",
+        "type": "objectif"
+      },
+      {
+        "id": "4ABB8EE9-1F00-BBAF-5132-FB20079EF42C",
+        "label": "élargir la gamme des produits et services",
+        "type": "objectif"
+      },
+      {
+        "id": "47F147E3-94A3-AC06-ADFF-9742A731D2DE",
+        "label": "offrir la possibilité",
+        "type": "objectif"
+      },
+      {
+        "id": "C0BEE733-493E-14FA-B3BC-C220D46D12E5",
+        "label": "limiter dans l'économie locale",
+        "type": "objectif"
+      },
+      {
+        "id": "D8C0C2FE-3508-39F2-F28C-C46CAE712426",
+        "label": "assurer le maintien et le développement",
+        "type": "objectif"
+      },
+      {
+        "id": "CCFA2256-FECF-3D46-AA9B-D00E8D7A2629",
+        "label": "développer l'activité maritime",
+        "type": "objectif"
+      },
+      {
+        "id": "2F75F280-5780-4CF8-19F9-31E29187DF34",
+        "label": "permettre tout aménagement aux conflits d'usage",
+        "type": "objectif"
+      },
+      {
+        "id": "6B0C29AF-D3E7-F98F-00D0-7E80FD4040C9",
+        "label": "diminuer les consom- développement urbain",
+        "type": "objectif"
+      },
+      {
+        "id": "74ABB714-CF7E-11E2-81B3-FF7B187B1461",
+        "label": "limiter les consommations d'énergie",
+        "type": "objectif"
+      },
+      {
+        "id": "9C399DF8-65F2-8FDC-3CE3-4276F969CCF9",
+        "label": "porter une attention particulière d'affaires",
+        "type": "objectif"
+      },
+      {
+        "id": "E3B3D103-BBA5-F8F3-C60B-E719F352A028",
+        "label": "protéger les ressources",
+        "type": "objectif"
+      },
+      {
+        "id": "3E3B410C-39B1-2287-61F0-A8E6138D5EAD",
+        "label": "mettre en valeur",
+        "type": "objectif"
+      },
+      {
+        "id": "04A0219A-DC77-9EBA-96A9-1331C58B7444",
+        "label": "perdurer la coexistence",
+        "type": "objectif"
+      },
+      {
+        "id": "05459B01-4C4F-0093-9549-4464EEAB3086",
+        "label": "survenir dans des communes",
+        "type": "objectif"
+      },
+      {
+        "id": "4C3FA2A8-CDF4-85B0-B307-ED12BECE125E",
+        "label": "promouvoir une approche",
+        "type": "objectif"
+      },
+      {
+        "id": "ED3AEF8B-E683-8AD3-C72D-9393D93A8475",
+        "label": "réduire les consommations des constructions naturels",
+        "type": "objectif"
+      },
+      {
+        "id": "07DACBF0-A0F9-7123-DF86-9CC516B2B786",
+        "label": "respecter les équilibres",
+        "type": "objectif"
+      },
+      {
+        "id": "27DF64F9-E0FE-EC95-AE82-52FEEA7CC8A1",
+        "label": "mesurer les impacts sur le mi- misation du fonctionnement de certains",
+        "type": "objectif"
+      },
+      {
+        "id": "04B71E4A-4098-3E12-1874-DE0A095712EB",
+        "label": "favoriser Saint-Brieuc",
+        "type": "objectif"
+      },
+      {
+        "id": "01DCC646-411B-D680-9B29-896BFD6C12C8",
+        "label": "garantir une qualité optimale",
+        "type": "objectif"
+      },
+      {
+        "id": "AF79E9B9-8C0A-BD8A-8F8B-9714F8487EAE",
+        "label": "évoluer les usages",
+        "type": "objectif"
+      },
+      {
+        "id": "AE2B67CA-F1FE-C906-9C98-BA0F210805A6",
+        "label": "rechercher avec les ments",
+        "type": "objectif"
+      },
+      {
+        "id": "E812ACD4-121C-4F35-9386-466BE7297976",
+        "label": "protéger les milieux",
+        "type": "objectif"
+      },
+      {
+        "id": "C9FB1DC4-C307-64F1-B84D-BF0CEA3F97D3",
+        "label": "favoriser le développement des énergies renouvelables",
+        "type": "objectif"
+      },
+      {
+        "id": "99B2C050-97A8-FBBD-96A0-A0CDB034828F",
+        "label": "préserver des réservoirs de biodiversité bleue du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "B19A297C-8BD9-3423-7977-083828E99CD7",
+        "label": "instaurer de règles",
+        "type": "objectif"
+      },
+      {
+        "id": "A4C2B8DB-5D4C-D0B7-53F1-D2E7DF9A6CCC",
+        "label": "devenir un sanctuaire inaccessible",
+        "type": "objectif"
+      },
+      {
+        "id": "0067B8D4-4D8F-0AB4-BCCD-3F2A93064A1F",
+        "label": "restaurer la fonctionnalité écologique",
+        "type": "objectif"
+      },
+      {
+        "id": "96703398-16C3-DE44-3245-C135233CC15E",
+        "label": "maintenir reconstituer la densité du ré- ritoire",
+        "type": "objectif"
+      },
+      {
+        "id": "7F257437-DACE-0F32-D6AA-50FBD228DA16",
+        "label": "paysager pour le territoire aquatique",
+        "type": "objectif"
+      },
+      {
+        "id": "685691A8-9426-F648-2E20-9B08D612FEC1",
+        "label": "garantir la plurifonctionnalité",
+        "type": "objectif"
+      },
+      {
+        "id": "6B56FE7E-A3BD-2A49-5C0D-0166BBB56F3E",
+        "label": "prendre compte au tra",
+        "type": "objectif"
+      },
+      {
+        "id": "83C7E4AA-527D-DAB5-BFB0-8C8A2190D11A",
+        "label": "respecter LES éQUILIBRES ENVIRONNEMENTAUX DU TERRITOIRE",
+        "type": "objectif"
+      },
+      {
+        "id": "E48CFADA-D739-5F80-AEC2-A3A79F088470",
+        "label": "valoriser ces espaces",
+        "type": "objectif"
+      },
+      {
+        "id": "5F9053B0-BA73-10D6-D669-5FFF339CBB6C",
+        "label": "favoriser la reconnexion des têtes de bassin",
+        "type": "objectif"
+      },
+      {
+        "id": "827704E9-92DF-17F2-A040-8774FCE2CEEA",
+        "label": "assurer une préser- Chaque",
+        "type": "objectif"
+      },
+      {
+        "id": "BD21ADCB-0CCF-56E5-EBD4-D48677E75495",
+        "label": "garantir de bonnes conditions",
+        "type": "objectif"
+      },
+      {
+        "id": "4B31A6C0-1958-9B10-4263-BEC186F1A68F",
+        "label": "préserver les réservoirs de biodiversité",
+        "type": "objectif"
+      },
+      {
+        "id": "F822469A-5C1E-78C0-5B35-8AB0DEC92A99",
+        "label": "prendre en compte la dichoto",
+        "type": "objectif"
+      },
+      {
+        "id": "A206D006-5D09-86B1-620F-D8428070D0E9",
+        "label": "se déplacer entre les espaces dans un axe",
+        "type": "objectif"
+      },
+      {
+        "id": "AFECDC4E-F1D8-E1BE-3145-53918747C198",
+        "label": "limiter le développement de l'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "5C7A6E48-965A-806C-C4C1-F6B66E58B9C8",
+        "label": "traduire par des aménagements légers",
+        "type": "objectif"
+      },
+      {
+        "id": "2F9860D4-4CCD-FEEB-ED55-89EDB425C497",
+        "label": "garantir la présence d'espaces",
+        "type": "objectif"
+      },
+      {
+        "id": "2F744A2D-9CB4-02A6-0A99-ED4C383613A6",
+        "label": "assurer amplifier la place et le rôle",
+        "type": "objectif"
+      },
+      {
+        "id": "CC22CBD0-37E7-71DC-DD31-16F6B01AF9C0",
+        "label": "permettre l'aménagement",
+        "type": "objectif"
+      },
+      {
+        "id": "E0C062B2-9F77-5C96-C640-7742F8446D26",
+        "label": "restaurer les rables",
+        "type": "objectif"
+      },
+      {
+        "id": "B44A16D4-70D3-EF3A-8693-3186CCC5B0DD",
+        "label": "maintenir conforter les continuités",
+        "type": "objectif"
+      },
+      {
+        "id": "7DBAFCB0-5B6D-46CE-D014-D33E8571F650",
+        "label": "limiter la poursuite de l'urbanisation linéaire",
+        "type": "objectif"
+      },
+      {
+        "id": "CA0613C3-7708-B266-E46D-50ED77DCDB43",
+        "label": "encadrer le développement économique et urbain",
+        "type": "objectif"
+      },
+      {
+        "id": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "label": "permettre l'évolution de l'hôtellerie cette",
+        "type": "objectif"
+      },
+      {
+        "id": "BDCBFCD8-7737-0B35-4D89-06ACCA54769E",
+        "label": "valoriser les paysages",
+        "type": "objectif"
+      },
+      {
+        "id": "3D86A6CD-A17A-AE0A-8B5E-E1995659726F",
+        "label": "prendre compte pour le pré- réglementation nationale",
+        "type": "objectif"
+      },
+      {
+        "id": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "label": "limiter l'accentuation des pressions",
+        "type": "objectif"
+      },
+      {
+        "id": "399BCB9F-EF91-9CF0-5720-D72F1DDC78EC",
+        "label": "favoriser la bonne intégration",
+        "type": "objectif"
+      },
+      {
+        "id": "7E5D4118-2110-C051-9745-4510F6AAB40F",
+        "label": "préserver le patrimoine du quotidien du Pays de Saint-Brieuc",
+        "type": "objectif"
+      },
+      {
+        "id": "1DDFC976-DAE8-0A03-DE62-A9B87D48E0DE",
+        "label": "interdire toute construction",
+        "type": "objectif"
+      },
+      {
+        "id": "B24C9278-083C-DC77-A8D2-568A3C66B6ED",
+        "label": "prendre en compte le site dès la concep",
+        "type": "objectif"
+      },
+      {
+        "id": "48EA9B8C-D1F2-741C-069D-90CC9F7A4DAB",
+        "label": "préserver de l'arrière-pays",
+        "type": "objectif"
+      },
+      {
+        "id": "C97C113D-CD93-F746-A4D5-BA4C25AFFBF0",
+        "label": "limiter la vulnérabilité du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "C582680E-0AFC-2D63-FA5B-33277830B212",
+        "label": "préserver la qualité écologique",
+        "type": "objectif"
+      },
+      {
+        "id": "49A9345F-5E49-A4BB-D307-6E6A6763B64E",
+        "label": "préserver choix",
+        "type": "objectif"
+      },
+      {
+        "id": "16BCACD9-D45D-765E-8CA3-DB8E14020B27",
+        "label": "éviter une accentuation du phéno",
+        "type": "objectif"
+      },
+      {
+        "id": "01B38DAA-3188-4427-9699-34AE64E44E05",
+        "label": "réduire les émissions de gaz",
+        "type": "objectif"
+      },
+      {
+        "id": "5994D34A-31D2-8F8E-8B0C-D074D72544DA",
+        "label": "définir des moda",
+        "type": "objectif"
+      },
+      {
+        "id": "BAF5061E-E824-6103-0F23-D703DF79F29A",
+        "label": "limiter au maximum",
+        "type": "objectif"
+      },
+      {
+        "id": "08B9E608-8EBE-2DA9-AD2F-6EFCCFBF2D1A",
+        "label": "accueillir la croissance de la population",
+        "type": "objectif"
+      },
+      {
+        "id": "DAE09B20-B383-4867-7BAB-91D4A22890BF",
+        "label": "limiter les besoins en énergie incontournables",
+        "type": "objectif"
+      },
+      {
+        "id": "93680B0D-7F5D-3747-7CB3-C5EA471947A8",
+        "label": "être une construction",
+        "type": "objectif"
+      },
+      {
+        "id": "2DBFD0B1-BBAC-3035-5623-882FB58042A8",
+        "label": "préserver l'intégrité écologique",
+        "type": "objectif"
+      },
+      {
+        "id": "419BBACE-B344-9879-B31C-F2AF96D1AA51",
+        "label": "limiter l'extension de systèmes fragiles et besoins de développement",
+        "type": "objectif"
+      },
+      {
+        "id": "A8E59789-343B-360F-DEE2-E18A8EC402F8",
+        "label": "lutter contre la vulnérabilité énergétique",
+        "type": "objectif"
+      },
+      {
+        "id": "66D754BF-DD39-DB10-C45B-9F9773405CD2",
+        "label": "réduire les émissions de déplacements des espèces dans ces espaces",
+        "type": "objectif"
+      },
+      {
+        "id": "8E6BA7F9-E1DD-50D1-7D4C-39131ED2812C",
+        "label": "tenir compte de la capacité",
+        "type": "objectif"
+      },
+      {
+        "id": "8E9E29C0-942E-AB28-A86E-DB854EED3A66",
+        "label": "concilier préservation des éco- b",
+        "type": "objectif"
+      },
+      {
+        "id": "A289C35F-F6C5-92E6-5104-B7C3BC423CDE",
+        "label": "limiter l'extension",
+        "type": "objectif"
+      },
+      {
+        "id": "9D9E9C94-88FB-797E-D46A-EDDC23485BEA",
+        "label": "contribuer à la protection de la biodiversité et aux a",
+        "type": "objectif"
+      },
+      {
+        "id": "EA643357-772A-8918-863E-D0818B6CCB5B",
+        "label": "permettre le développement urbain et économique du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "8B3D3C8D-1E5B-ABBD-3150-63731C02B6E6",
+        "label": "favoriser la production locale d'éner",
+        "type": "objectif"
+      },
+      {
+        "id": "1119FDB5-E3C4-7B1E-C902-712EF268643B",
+        "label": "contribuer à l'identification des vul- collectivités et acteurs du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "7B94329C-E8D2-550D-67A3-3FC167055198",
+        "label": "encourager les démarches",
+        "type": "objectif"
+      },
+      {
+        "id": "2C9F8DF3-B109-BB03-4DFD-3271E91E385B",
+        "label": "améliorer les systèmes d'assainissement",
+        "type": "objectif"
+      },
+      {
+        "id": "2F236473-85A4-801D-3E9F-387AB48FAF6F",
+        "label": "limiter les impacts de son exploitation",
+        "type": "objectif"
+      },
+      {
+        "id": "7D9DB084-1A5C-53D2-DE27-61C57230FDAD",
+        "label": "limiter l'imperméabilisation des sols",
+        "type": "objectif"
+      },
+      {
+        "id": "5BF17672-7E9E-FF60-6C44-7EB22857C567",
+        "label": "suivre un objectif compétitivité du véhicule individuel en particu- lation de panneaux solaires",
+        "type": "objectif"
+      },
+      {
+        "id": "56B59CAC-FCDE-D25B-C073-C740119680CB",
+        "label": "limiter ces effets",
+        "type": "objectif"
+      },
+      {
+        "id": "D87B1B70-8E2A-3A5E-0CD7-0FDABC3C274F",
+        "label": "prendre compte au fur et à futures règles d'urbanisation",
+        "type": "objectif"
+      },
+      {
+        "id": "36EA9E39-4BEE-964D-93C7-576E4D4B37DD",
+        "label": "prendre en compte le milieu",
+        "type": "objectif"
+      },
+      {
+        "id": "799EB148-803B-E7B1-E3FF-116162974757",
+        "label": "gérer le ruissellement",
+        "type": "objectif"
+      },
+      {
+        "id": "2F34B476-483A-3A6F-2FD0-5EBE9094ED63",
+        "label": "lutter contre la formation d'îlots de l'exploitation du sous-sol",
+        "type": "objectif"
+      },
+      {
+        "id": "BFCD95ED-202A-633B-117D-546A89E8F34D",
+        "label": "lutter contre le réchauffement climatique",
+        "type": "objectif"
+      },
+      {
+        "id": "AA23CAC2-B02E-190D-FA65-B3C4A8A3A9E4",
+        "label": "protéger les zones humides et les risque de canicule",
+        "type": "objectif"
+      },
+      {
+        "id": "EE5548BE-E0DC-69DA-755A-B37E1F515583",
+        "label": "préciser ce risque",
+        "type": "objectif"
+      },
+      {
+        "id": "6FCE8501-B682-69E0-A7F0-8130853B6A6A",
+        "label": "adapter le territoire au changement climatique",
+        "type": "objectif"
+      },
+      {
+        "id": "11EB9F68-2C6E-F605-94EF-C4568EA107C6",
+        "label": "préserver le potentiel du sous-sol",
+        "type": "objectif"
+      },
+      {
+        "id": "4E391AAB-E7E1-913C-7304-E9EB61402F7D",
+        "label": "tenir compte dans les sins",
+        "type": "objectif"
+      },
+      {
+        "id": "88D669DA-0D2F-2335-0BD5-B4F6B7AF5A08",
+        "label": "contribuer à l'amélioration",
+        "type": "objectif"
+      },
+      {
+        "id": "61FDC9BD-10B8-ECA2-95F4-B7BB399E8F42",
+        "label": "comprendre une réflexion sur Le SCOT",
+        "type": "objectif"
+      },
+      {
+        "id": "70207CB3-2DF7-19A0-1502-9AC146705499",
+        "label": "encadrer le stationnement des caravanes",
+        "type": "objectif"
+      },
+      {
+        "id": "987E2C31-DB11-8571-FAA5-F225801258F1",
+        "label": "limiter les impacts par exemple",
+        "type": "objectif"
+      },
+      {
+        "id": "A6638635-B12A-2317-E55E-83402C0163D8",
+        "label": "rénover leurs équipements",
+        "type": "objectif"
+      },
+      {
+        "id": "1C6D8D43-82A3-4C72-9647-F67790FBF19C",
+        "label": "lier en termes de temps de déplacement",
+        "type": "objectif"
+      },
+      {
+        "id": "5BDDBF6C-31DF-387B-99FA-FD6767CCEEB4",
+        "label": "suivre la consommation d'espace par des objectifs",
+        "type": "objectif"
+      },
+      {
+        "id": "2F47BB62-C3F5-CA33-56EB-32BC357DE45C",
+        "label": "se traduire par un ac- orientations",
+        "type": "objectif"
+      },
+      {
+        "id": "ECE9FD5B-2845-E948-0744-E40BC3A13491",
+        "label": "déboucher sur des réflexions",
+        "type": "objectif"
+      },
+      {
+        "id": "DCE36F6D-159D-33F9-402B-2B1B96F83702",
+        "label": "se laisser tout",
+        "type": "objectif"
+      },
+      {
+        "id": "1F8B17CD-1474-5F9D-E4DE-916BF56CC0C7",
+        "label": "améliorer diffusion de certaines orientations du SCOT sur le service",
+        "type": "objectif"
+      },
+      {
+        "id": "45ADB700-C56B-2203-8D13-2C3FF3498499",
+        "label": "répondre aux exigences réglementaires",
+        "type": "objectif"
+      },
+      {
+        "id": "D156B7EB-3BD5-F638-3084-23731D5AD614",
+        "label": "développer une culture",
+        "type": "objectif"
+      },
+      {
+        "id": "2BF5B2A6-C659-0D20-E060-46242A223DC9",
+        "label": "concourir aux tion et instruction des autorisations du droit des objectifs",
+        "type": "objectif"
+      },
+      {
+        "id": "54709795-208E-5B0F-FE02-BD7E52F8C4A0",
+        "label": "garantir des modes de déplacements",
+        "type": "objectif"
+      },
+      {
+        "id": "75249497-7119-1905-0712-9A6CA6A31905",
+        "label": "accompagner les usages",
+        "type": "objectif"
+      },
+      {
+        "id": "5B7E7896-C161-B1B1-C85B-88B3A80014F2",
+        "label": "interroger le territoire du Pays",
+        "type": "objectif"
+      },
+      {
+        "id": "F898E3F2-662E-09D1-0928-6D8CAF37697D",
+        "label": "promouvoir le contenu du SCOT",
+        "type": "objectif"
+      },
+      {
+        "id": "035B01A8-1CD3-B689-C06D-923348A7A7C0",
+        "label": "proposer des séances de formation",
+        "type": "objectif"
+      },
+      {
+        "id": "489F8049-E2F6-B9AA-434D-175FDD59D6A2",
+        "label": "constituer des groupes de travail spécifiques",
+        "type": "objectif"
+      },
+      {
+        "id": "20B3A809-014D-BEFD-9BD5-5D78103BEDE8",
+        "label": "financer La mise en œuvre du SCOT",
+        "type": "objectif"
+      },
+      {
+        "id": "DD8D46ED-4C1F-D76F-945C-8CDF4E0FF186",
+        "label": "réduire les niveaux de bruit",
+        "type": "objectif"
+      },
+      {
+        "id": "208D823B-B707-5DD6-960D-137C8E8D0B0E",
+        "label": "tenir compte des nuisances",
+        "type": "objectif"
+      },
+      {
+        "id": "DED90BFF-DEEC-CAED-9D09-78711AED3030",
+        "label": "suivre l'évolution du territoire",
+        "type": "objectif"
+      },
+      {
+        "id": "60E9B985-26D0-AF4E-B956-9BB836F74A30",
+        "label": "garantir un suivi efficient",
+        "type": "objectif"
+      },
+      {
+        "id": "B9B51239-004E-ED90-A04F-D6409EB05440",
+        "label": "développer des outils communs",
+        "type": "objectif"
+      },
+      {
+        "id": "93483467-C090-D7F2-C23C-67D1B2AC2535",
+        "label": "être en Pays de Saint-Brieuc",
+        "type": "objectif"
+      },
+      {
+        "id": "EBF2362D-50D3-6CBF-0832-CC1EAC9BBB4B",
+        "label": "répondre aux besoins des col",
+        "type": "objectif"
+      },
+      {
+        "id": "0798ED73-0E20-D823-DAFC-E88EBB81DDBE",
+        "label": "définir les secteurs",
+        "type": "objectif"
+      },
+      {
+        "id": "1B714936-C659-A20E-03F6-E15643224FD3",
+        "label": "assurer la gestion de manière",
+        "type": "objectif"
+      },
+      {
+        "id": "DF61610B-0235-45A4-9A79-6AC6F6DFF85E",
+        "label": "accompagner les communes dans leurs",
+        "type": "objectif"
+      },
+      {
+        "id": "65859E6A-911E-2CB1-0335-FDA155F9C938",
+        "label": "réduire le taux",
+        "type": "objectif"
+      },
+      {
+        "id": "8467D4B6-1D85-7515-A147-1D1D903068E9",
+        "label": "mesurer les effets du SCOT",
+        "type": "objectif"
+      },
+      {
+        "id": "E209B480-2383-8396-35BF-71E89B576B9B",
+        "label": "accompagner la mise en œuvre du SCOT par les projets",
+        "type": "objectif"
+      },
+      {
+        "id": "44B6C89A-B59D-1011-70E7-DB49052F968D",
+        "label": "développer les services numériques dans pas en charge de la mise en œuvre",
+        "type": "objectif"
+      },
+      {
+        "id": "9DE437C9-78C5-CB94-1882-20D6198AEE54",
+        "label": "relever d'exigences particulières",
+        "type": "objectif"
+      },
+      {
+        "id": "4F0EE8A9-4903-1E31-2EAB-39364DC5C93F",
+        "label": "intégrer dans l'aire d'influence",
+        "type": "objectif"
+      },
+      {
+        "id": "8A942348-BA76-3B65-1B25-CED28C446236",
+        "label": "faciliter la diffusion des messages du SCOT",
+        "type": "objectif"
+      },
+      {
+        "id": "F761B88D-041B-A38F-6749-CA4D83C1682A",
+        "label": "favoriser l'implication de la société civile",
+        "type": "objectif"
+      },
+      {
+        "id": "D7697DC0-400D-AEBD-629F-EA55523FFEA6",
+        "label": "approfondir certains thèmes",
+        "type": "objectif"
+      },
+      {
+        "id": "C3D17360-3795-7360-5569-25B56BDFAA7C",
+        "label": "entendre des spécialistes",
+        "type": "objectif"
+      },
+      {
+        "id": "3D021896-7EE3-2A9F-82AF-8BF9A95DB0A1",
+        "label": "être porté par un établissement",
+        "type": "objectif"
+      },
+      {
+        "id": "6CD64C2F-926F-52B2-E594-C241141218CD",
+        "label": "maintenir la dynamique du SCOT",
+        "type": "objectif"
+      },
+      {
+        "id": "0EF70FFD-C9C5-CA09-CE2A-3C2BC8185D0E",
+        "label": "assurer La gouvernance",
+        "type": "objectif"
+      },
+      {
+        "id": "A5A3F6F2-54DA-4EC7-60B4-ECA6FD0369F6",
+        "label": "apporter aide et conseil aux communes lectivités",
+        "type": "objectif"
+      },
+      {
+        "id": "D7C526C2-3653-C0C5-58D6-50CC7604E411",
+        "label": "organiser des matière d'urbanisme et d'aménagement",
+        "type": "objectif"
+      },
+      {
+        "id": "08191D4D-E88F-D234-5F10-BCFCA8D6FF60",
+        "label": "limiter ces risques",
+        "type": "objectif"
+      },
+      {
+        "id": "3C983D8D-D88B-1385-16A8-2BB7AE1DFA16",
+        "label": "trouver un créneau",
+        "type": "objectif"
+      },
+      {
+        "id": "15E30560-074E-FD5E-09D0-144B809AAEAD",
+        "label": "se doter d'outils pédagogiques",
+        "type": "objectif"
+      }
+    ],
+    "edges": [
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "B960AB45-196D-6B82-E181-CE4F6E2098DB"
+      },
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "92E1007E-39CC-45E2-F0C8-2931869813AB"
+      },
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "F3622FA0-617E-0BB9-787A-A34012126953"
+      },
+      {
+        "source": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "relation": "dep",
+        "target": "2D108A76-4C40-094A-4DB8-8F1297CCDB38"
+      },
+      {
+        "source": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "relation": "dep",
+        "target": "F816E3DD-B81D-7732-1451-DC14674C5944"
+      },
+      {
+        "source": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "relation": "dep",
+        "target": "0CBF3D77-4A9D-CBC4-B5CB-3701391A4B98"
+      },
+      {
+        "source": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "relation": "dep",
+        "target": "D854BB66-81C2-22E5-4473-891D7C694B2A"
+      },
+      {
+        "source": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "relation": "dep",
+        "target": "6299DAF8-B25B-C20B-5DB8-BCAC805703A7"
+      },
+      {
+        "source": "0CBF3D77-4A9D-CBC4-B5CB-3701391A4B98",
+        "relation": "dep",
+        "target": "45F2E940-1FDD-7CCF-D0D3-E7812A15C301"
+      },
+      {
+        "source": "0CBF3D77-4A9D-CBC4-B5CB-3701391A4B98",
+        "relation": "dep",
+        "target": "ED9E8D0C-7E69-02EA-A892-B71852BC4152"
+      },
+      {
+        "source": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "relation": "dep",
+        "target": "8056E81B-7EA4-9309-263B-D823762BF8E0"
+      },
+      {
+        "source": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "relation": "dep",
+        "target": "43D82E60-64C6-0537-AC70-4C2511BE9EDF"
+      },
+      {
+        "source": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "relation": "dep",
+        "target": "CE14E556-F80F-3B13-B7FC-DE17F4D36149"
+      },
+      {
+        "source": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "relation": "dep",
+        "target": "029327A2-14C7-6B8C-AFE3-68E456793EB5"
+      },
+      {
+        "source": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "relation": "dep",
+        "target": "B083D355-8753-4579-B32A-0E3D97B49D22"
+      },
+      {
+        "source": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "relation": "dep",
+        "target": "4FC3FC70-A632-BC78-83EB-5558B3230C28"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "FC19E106-F9B1-FBE5-61D5-EE30AAAEBEBA"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "AD907BA1-D676-8F83-98F6-B266419283E2"
+      },
+      {
+        "source": "4FC3FC70-A632-BC78-83EB-5558B3230C28",
+        "relation": "dep",
+        "target": "A611D5DB-11B5-57CB-BC68-E74BE1F389C6"
+      },
+      {
+        "source": "BF7ECEEA-6674-D475-1715-B628F9EE409D",
+        "relation": "dep",
+        "target": "D40030E7-C0F9-8CF4-619A-2FBD232A2474"
+      },
+      {
+        "source": "BF7ECEEA-6674-D475-1715-B628F9EE409D",
+        "relation": "dep",
+        "target": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6"
+      },
+      {
+        "source": "D40030E7-C0F9-8CF4-619A-2FBD232A2474",
+        "relation": "dep",
+        "target": "9E2B23F5-D8A0-3D2E-69D7-528384C9389D"
+      },
+      {
+        "source": "D40030E7-C0F9-8CF4-619A-2FBD232A2474",
+        "relation": "dep",
+        "target": "B7C3F244-ACF4-E8CC-92DA-BB7FF16D7B7B"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "EF1538CA-A1D8-F42D-3B82-988574038C24"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "BA6EF793-1F2C-573F-7FAE-D201D0D809A2"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "6D79BEAA-C1D9-FBE5-E37D-01DB856898CF"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "47B4BA69-D7BA-6724-1DE6-EA8C4D6ACEA5"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "71F68429-B9DF-094E-D062-C72D6BFF93FD"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "292FE48F-19CA-8167-FEB8-7849EBA444E4"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "41C859BA-1184-1C72-3DE4-4CBDAA490320"
+      },
+      {
+        "source": "D8DD05EF-2B39-3B63-03A3-54F986D1F9C6",
+        "relation": "dep",
+        "target": "0FB80B4E-2CCF-CF78-59FD-26B12B72E9C1"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "3BC8D654-C0DD-9CAD-4755-F36EC4168D5F"
+      },
+      {
+        "source": "EF1538CA-A1D8-F42D-3B82-988574038C24",
+        "relation": "dep",
+        "target": "A9E6A2FD-1DE3-CA87-EAC8-7CF0D37EE635"
+      },
+      {
+        "source": "BA6EF793-1F2C-573F-7FAE-D201D0D809A2",
+        "relation": "dep",
+        "target": "C2914FBC-1E61-2D5B-ECAE-46645715A931"
+      },
+      {
+        "source": "41C859BA-1184-1C72-3DE4-4CBDAA490320",
+        "relation": "dep",
+        "target": "65332D8D-38ED-A76D-781E-5FF9AD416EAB"
+      },
+      {
+        "source": "A18A4AF4-A7C8-E1D9-4F46-C779FC9B843A",
+        "relation": "dep",
+        "target": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C"
+      },
+      {
+        "source": "A18A4AF4-A7C8-E1D9-4F46-C779FC9B843A",
+        "relation": "dep",
+        "target": "6BC67420-28A5-93A2-20EB-623CEEA37A18"
+      },
+      {
+        "source": "A18A4AF4-A7C8-E1D9-4F46-C779FC9B843A",
+        "relation": "dep",
+        "target": "12A93CE2-63AD-3FD8-5FC9-000F925E7954"
+      },
+      {
+        "source": "A18A4AF4-A7C8-E1D9-4F46-C779FC9B843A",
+        "relation": "dep",
+        "target": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "EA600B58-F520-2B38-9AE7-E207ED42B975"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "D54588AB-7B83-0E09-473C-64F2856F24C7"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "57D23677-B0E8-BDB3-4721-02D26FC797C7"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "2127F23A-329A-97F0-CD71-EED2477D120D"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "39A632C4-0653-A58E-95F1-0A4AE86E880C"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "A31A93B6-E5CD-5F8A-69FB-932C93236832"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "B6780DFB-1C1D-DB85-3035-A90BDA8C14B4"
+      },
+      {
+        "source": "D54588AB-7B83-0E09-473C-64F2856F24C7",
+        "relation": "dep",
+        "target": "97460573-C897-D6D7-8E79-A17846BD40C7"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "145176E7-A28E-0139-FDD7-B1E63205A369"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "20C5FD56-815C-4695-B68D-B6779B284CC1"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "BA337981-A820-49E7-2B5A-0964949B8674"
+      },
+      {
+        "source": "145176E7-A28E-0139-FDD7-B1E63205A369",
+        "relation": "dep",
+        "target": "A4FFEBEF-BCFA-E7AF-BBEA-F9F92E92E305"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "8900ACB6-2E83-91E4-3B18-7874AB7F9118"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "3F9297BF-183F-89EE-B8D4-ECA2A2721628"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "088AF4BA-B149-1E9D-7EB8-9A492B9C5A8A"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "7BE85D93-AF51-9866-52AE-80BE6EFC3F51"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "A85CB9C7-B038-EB14-278D-C11B3D47EA74"
+      },
+      {
+        "source": "A85CB9C7-B038-EB14-278D-C11B3D47EA74",
+        "relation": "dep",
+        "target": "7EE09E5C-3E53-650E-EFC4-574C0EB76EF6"
+      },
+      {
+        "source": "8900ACB6-2E83-91E4-3B18-7874AB7F9118",
+        "relation": "dep",
+        "target": "C0A0689A-E3F4-6FE5-FCAA-6D37270E2BC8"
+      },
+      {
+        "source": "1896D0C5-F606-CE3D-7478-07987865FD00",
+        "relation": "dep",
+        "target": "E5A35CF3-5F3F-DD3C-ADDE-573DDB405C85"
+      },
+      {
+        "source": "1896D0C5-F606-CE3D-7478-07987865FD00",
+        "relation": "dep",
+        "target": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02"
+      },
+      {
+        "source": "1896D0C5-F606-CE3D-7478-07987865FD00",
+        "relation": "dep",
+        "target": "1C92E0B9-04F9-D8ED-6D98-144DCFCF497C"
+      },
+      {
+        "source": "1896D0C5-F606-CE3D-7478-07987865FD00",
+        "relation": "dep",
+        "target": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9"
+      },
+      {
+        "source": "1C92E0B9-04F9-D8ED-6D98-144DCFCF497C",
+        "relation": "dep",
+        "target": "9EBB6D5C-4BE5-A611-CCE5-BC471B35C1B7"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "2059B401-1C98-57CE-CA48-95BE4D2E8EEB"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "F3622FA0-617E-0BB9-787A-A34012126953"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "5008ECCF-C9E6-448F-0BAF-BADBB89F14B9"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "BAFEE16C-08F1-4E8F-265F-8669BCB47548"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "64676839-02F5-43B7-E3B1-63763B8A513C"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "9EF5BA99-2F4A-54E7-6E31-394F4E631B6E"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "D98F0BC8-EE80-E221-C312-92093B616017"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "57D23677-B0E8-BDB3-4721-02D26FC797C7"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "4AF640EC-3117-8787-5FE7-E0BE4895F415"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "807351E8-E6C6-19B7-00A6-1C441E3A68A9"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "22E10D26-16C7-81C2-5314-F01A0E5B5883"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "029327A2-14C7-6B8C-AFE3-68E456793EB5"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "C2E96161-4E1C-B3B3-BD53-955C5FC62502"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "38780412-B889-3DA1-0833-FEFD8787505E"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "DAB3B80D-FA52-AE2C-3ADC-9476ACD71BEB"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "C2C99AA0-8EF7-B2CD-3183-08A7362CD6C2"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "71F68429-B9DF-094E-D062-C72D6BFF93FD"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "F4022D99-F50F-EABF-9B60-B19ADFA5B760"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "6700D3DB-58C2-DD53-0208-310E59723E92"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "F06A2B90-3953-A0EB-0C8D-304CDD975CB6"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "50A43CF3-3464-F3A7-A209-C797EC8E2307"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "3F7F90D8-793B-C3E5-F64D-BB6D6DE42AC6"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "5A29D14F-38E5-99D8-BCDC-86834E3A745A"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "B79ECBBF-9818-AA4F-6D9D-591595254A3D"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A"
+      },
+      {
+        "source": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9",
+        "relation": "dep",
+        "target": "9DC12D7B-A3FE-98CE-3C6E-03645117C35B"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "60840CDF-A5A7-9623-84AB-8E47F2DFB295"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "918BEBB7-A4CE-73C8-3B95-2FE8FFFE0507"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "D824D4CF-26CC-61EE-6634-D8646A9BD7D3"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "CB55DF20-E910-3613-EE9D-89B7869DFFBC"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "4CC5EBBF-857F-E2CD-898D-BA19152FEB96"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "8CAEA2E4-51CA-D851-A83E-74836F6ABEA0"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "3DE44E66-8A4C-90D2-4A69-CC0B74FA27C8"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "C8B3CA01-6575-9568-F386-77AE06E62306"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "268059E7-C5B6-BB0D-90CF-DD432E334840"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "F4583727-D392-B093-A67D-70FB1817D60F"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "E745DA43-47EC-7C9D-0A04-9C8E6DF57124"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "646B0005-44AD-62DE-1FCE-DB6679C34D68"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "D6A8CD80-D808-4D49-8862-D1486F962318"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "811BF316-C740-D3BC-16E9-256BD0E6F402"
+      },
+      {
+        "source": "22E10D26-16C7-81C2-5314-F01A0E5B5883",
+        "relation": "dep",
+        "target": "1E5C49EB-79AF-2862-C772-DD91D93E6C48"
+      },
+      {
+        "source": "3DE44E66-8A4C-90D2-4A69-CC0B74FA27C8",
+        "relation": "dep",
+        "target": "918BEBB7-A4CE-73C8-3B95-2FE8FFFE0507"
+      },
+      {
+        "source": "E745DA43-47EC-7C9D-0A04-9C8E6DF57124",
+        "relation": "dep",
+        "target": "C44A2FDD-3D4D-9B38-A122-7C828C15A0E5"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "269A5C5F-6079-DCC9-2F86-4D6AA9FD8E8E"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "2E726764-D258-C053-BCFE-585725585CF8"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "0AE9F9B4-D8DA-289F-00EA-E87BC74E6DF2"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "D96CF84C-9270-682B-794C-0CE654202050"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "7993C74C-4E11-2354-79D8-C9F115B83F0C"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "5D9C6169-D28B-6B70-D9C9-C151EA4088B4"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "206C12F6-1B01-5E5F-A981-2579E135E774"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "E938C447-7677-1B89-69CA-584A2F5AEE0E"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "F58DD2C7-6834-DF04-F4A9-69B501351968"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "55B2C267-9C52-9FC0-9297-1D88A440EFFD"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "BA565104-858E-5AC9-8384-93E8209ED81A"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "10DC8D7C-FFCF-D3E5-0DD3-3EE1456072F2"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "2DFC1FF9-C622-888B-7992-A69AD97B800C"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "D891E37A-C4D3-69F0-8483-5079E001A486"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "DDF971C0-0A7B-BEB8-C358-9C6943E2CD1D"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "7EBE7DBB-4D66-1C87-EA3D-2491F4E7B01F"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "3AE5F3C5-D0D6-2C6E-8592-39F7D4921BC7"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "45F2E940-1FDD-7CCF-D0D3-E7812A15C301"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "5830ACA2-0508-AF3B-9B3B-2D647816CA47"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "E79BD6CC-9BAB-E6F7-A6BD-E3F4DB06E848"
+      },
+      {
+        "source": "029327A2-14C7-6B8C-AFE3-68E456793EB5",
+        "relation": "dep",
+        "target": "3F3BB724-7B0E-4E89-FF3D-9BB4FB96789D"
+      },
+      {
+        "source": "BA565104-858E-5AC9-8384-93E8209ED81A",
+        "relation": "dep",
+        "target": "269A5C5F-6079-DCC9-2F86-4D6AA9FD8E8E"
+      },
+      {
+        "source": "5830ACA2-0508-AF3B-9B3B-2D647816CA47",
+        "relation": "dep",
+        "target": "206C12F6-1B01-5E5F-A981-2579E135E774"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "8AAA8C60-19B8-2734-4F9F-2027D9DE43FF"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "C0042AA2-6389-0D7A-42ED-4FD3556E1AAC"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "FA505085-90C4-F15A-4E9F-FDCD5525B438"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "2AEB1637-E8D0-23AE-EE9A-8F76C9DF104E"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "A8BE803E-B169-6580-4AC0-B5A4EA5934C8"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "66689DA3-2A45-C3C1-04B2-066F2804BF02"
+      },
+      {
+        "source": "15A7E014-58C1-6A0F-7B83-D6EEDF07384A",
+        "relation": "dep",
+        "target": "20E95A88-3EC6-D413-5D93-CE127DF36AFF"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "26EC443E-B211-D120-6560-9F45CCDAAB5C"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "96990263-0B32-D741-B1D3-EC6A040E1EA9"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "520C6BA7-326F-11DC-8B35-12D490387CC7"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "F3AA945F-3DB9-CDDF-E43F-375D3895715D"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "D83DED62-0A80-440E-32AB-0BB47F7ADA6A"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "7C73A3E5-AC24-BD6C-5E13-211BBEBE9213"
+      },
+      {
+        "source": "FA505085-90C4-F15A-4E9F-FDCD5525B438",
+        "relation": "dep",
+        "target": "DD20679A-9D9C-8220-17C3-8AD15C21831D"
+      },
+      {
+        "source": "F3AA945F-3DB9-CDDF-E43F-375D3895715D",
+        "relation": "dep",
+        "target": "26EC443E-B211-D120-6560-9F45CCDAAB5C"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "E0736ED6-446A-B774-C87B-3DF4E7FAF851"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "7374DC0D-D12C-B32E-305F-8123C1D21379"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "6DF602B4-9949-6139-2958-A260B104913E"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "61AD4DDA-2139-E834-957F-6483FA20CEB9"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "E6D240D9-0AB0-DCDD-E4BA-3D8D94C724E0"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "A737FF1A-3468-81AA-37E9-CFB0C4B7750E"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "C94EE733-7D3E-3B56-1850-A7FA644EFA91"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "66C62F62-E95D-6365-6407-C24CA9325A04"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "8B5D44B9-F751-9369-96BB-78AA4DDB71DC"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "F0764BC6-5370-6008-CCAC-DABD502B756F"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "2973F866-C2EA-05E5-0C80-948B905FE18A"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "40CDFB7E-36FE-B720-D3EE-3EA16EC3B553"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "8056E81B-7EA4-9309-263B-D823762BF8E0"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "15C5319F-E16A-4D39-29FB-98E324E9F80E"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "43357BC9-B5DF-CEC1-89D5-F34875895538"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "22F7E1E7-5116-252E-E198-663968A2DF77"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "64F1008E-041A-9A32-2FD7-C5DE5903CF7D"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "B839011E-B3B4-88DA-122A-3386D257EEA9"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "81E7ADC5-77A2-869B-FEC0-EB67DB975555"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "6876528A-FE44-9445-DBAF-5095D3CE8DCC"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "9E69527D-1B46-8D9C-5A0A-17259ABEF244"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "F1A7E3CD-AB1E-E884-8DB9-EE69348EC8FA"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "EC43F4D5-963B-23DE-73B5-EA46164066B1"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "BF7CE463-503A-8499-A4BF-C8B578677B1A"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "B1742631-557F-5237-E695-D02F5FFC7642"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "56DAA099-C866-E7C5-3CC4-5C17A183E14F"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "5287854D-EDF8-71A3-03CE-D788205B87B1"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "AAC8010B-8093-679A-2AA7-E23AE4E01E16"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "E5A48288-A6EF-3BC1-6561-6F8AFC0D6EB2"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "53F0E1AC-AA66-2CC4-F64D-AC31F77F1E55"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "FE689E69-87F4-3C88-7C72-3B30D3BA93D8"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "96EF90C2-1547-BF50-AC0A-CCC2BFFC45B9"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "B1630906-D38C-87ED-8023-06385978681D"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "AB71C02F-7CD4-EB90-782C-DD06AEE7DD60"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "D40030E7-C0F9-8CF4-619A-2FBD232A2474"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "F3B6C417-7BB7-66DB-3212-5215E9A6248F"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "0EDBEC2F-7E28-8D94-CA29-6EF7DB997381"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "61615FB8-C687-2458-FEEB-3503D7514193"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "CCB2403F-547D-F01F-D0ED-7611F043375D"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "D828E53E-4C27-2E6D-1CEF-22DA2EEDB6B2"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "8C36D11D-A05F-A884-55CE-034D9316C41B"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "F1690085-1D1B-7860-5487-DC4D23CFC96A"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "B06FC7A5-7FBF-EB9C-600D-C459B99E793E"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "5F81209A-F48E-C7F2-683B-844BE2C3BA2B"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "EDDDB6EF-120F-0775-D563-863362254184"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "9D7BA6DB-FF96-2900-4FD3-7E90EC6EEF56"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "C0E75474-3899-B134-ACD9-3A52526CD71B"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "58543FF1-72F8-F8D9-7E3A-447489B0B8FA"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "F30B38AE-396F-6D97-37F0-B6728D896D5D"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "748B7F59-1B92-0AA0-0D66-D3E90CDCDC7F"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "43D82E60-64C6-0537-AC70-4C2511BE9EDF"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "C5B32FC9-2BE6-FD89-6E63-25337A9C5804"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "1656C1DE-0B96-B069-0F82-D223C692AF65"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "F5E18482-E7B2-324F-A779-613BCFF63C71"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "DB73819B-2DBD-C6B2-39B4-FD7BB579F464"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "B230AE88-D126-793A-F60B-40814B086486"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "B083D355-8753-4579-B32A-0E3D97B49D22"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "36FAF519-9CFE-B097-A308-98730350F9B0"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "7F7906AA-815E-C486-2DD1-74FE7B08F868"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "A611D5DB-11B5-57CB-BC68-E74BE1F389C6"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "EC18C09E-6427-7DD7-7267-3DA2CE35C38E"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "81B70412-AED7-48D2-F4D3-8080CF6CCC79"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "8A31246B-E85B-3C22-9066-1FD3EF9F3B6A"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "A4E57630-A81D-32CA-0B29-FC7B7CDCAB02"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "E777D0A1-6A82-2C86-B3E0-FF1D348A755C"
+      },
+      {
+        "source": "50A43CF3-3464-F3A7-A209-C797EC8E2307",
+        "relation": "dep",
+        "target": "2FDBBF44-3502-C645-9769-791786F8F741"
+      },
+      {
+        "source": "5287854D-EDF8-71A3-03CE-D788205B87B1",
+        "relation": "dep",
+        "target": "FC9604C8-23F5-AB59-D5FD-C945EE1A0B13"
+      },
+      {
+        "source": "5287854D-EDF8-71A3-03CE-D788205B87B1",
+        "relation": "dep",
+        "target": "EF1538CA-A1D8-F42D-3B82-988574038C24"
+      },
+      {
+        "source": "5287854D-EDF8-71A3-03CE-D788205B87B1",
+        "relation": "dep",
+        "target": "B5BB6301-AF23-2415-3650-9EBC9018E99B"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "7701B587-73DE-5AF4-A8B4-32ABC77464D2"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "B5E1DD5A-678B-E84C-6139-353B16D32A16"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "725BF450-3FEB-A45A-E641-837A6B54676C"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "952CB9ED-6FA4-E62E-B053-92EE0909C8B2"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "527718DB-8CB6-9CD6-ADE4-83189B21C0E4"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "673C34F6-B6D3-9B3F-BDF8-3243A761B8A0"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "240E7720-8B73-3D51-1463-FDFC2D15DBCA"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "C08B3032-6815-D7C8-CC6B-B41BB1BBD498"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "D8B4BA34-8944-2AAB-B120-35593EAE48DA"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "36AD68E7-4571-32EA-3312-059947AF6874"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "11CAA2B6-2848-907F-1FA8-918046C2C63B"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "87F8EF1C-7D20-0011-85C8-557DB2361636"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "FDD7A9C8-D9D8-BA37-8C1E-22D6B8D81C9C"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "AA787537-4D4B-BD76-0385-A9CF4B4AC276"
+      },
+      {
+        "source": "E043DC8C-BBE2-3926-AFBA-243DF8F2ACE2",
+        "relation": "dep",
+        "target": "DF72E08B-63B6-BB74-1B47-F3E2D071D5AB"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "7D7D3AA1-F4B5-E47E-A4A4-F587A5A89617"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "3AB81D05-EB70-BB23-A5D6-FE321EA706A8"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "5F81209A-F48E-C7F2-683B-844BE2C3BA2B"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "C6630E76-0EBB-26D2-9098-34EA8BC8FAE5"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "F77BA403-40ED-C7FA-0667-897028F38257"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "F96E13BF-CB91-CFD9-A2E4-B6CF3371F7CA"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "42313860-4057-6794-B6F2-57DE97EDA542"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "0475A759-D180-8F57-D4E9-23790C3D8380"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "55E13960-EDA9-6E0E-CF2E-91DBCE3C6ADC"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "A3186998-08C9-6F61-BC30-7169CC25AB30"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "5C235E1D-C362-64EE-3972-CAC94FDDE764"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "833A80AD-5F62-13A2-72C0-E2EFDDE130E8"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "EDAC488C-0C6B-7264-6311-64ED1FC82A7A"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "4B691711-00B5-3CC8-EDB5-AA3395D76E5D"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "F29B6F46-2446-4EE6-3420-4DF9C597A5B2"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "016B18A7-DEB7-3C62-F025-654606520196"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "24C37D0C-4454-3237-2523-25D4E9990865"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "B2E5E8AC-D3A1-D2AC-18D1-57CF99AB10CC"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "23FFA711-0E45-224D-BFE5-1F650F153C3D"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "0FFBB101-2E30-75F2-C5E2-4D1613ABA75D"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "E5441DEF-676F-5CC0-9064-16F01C3DAF55"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "A1340802-54D4-D9FC-45F9-BEA0B9CF9D9F"
+      },
+      {
+        "source": "807351E8-E6C6-19B7-00A6-1C441E3A68A9",
+        "relation": "dep",
+        "target": "306D15AF-3648-5477-53AA-FCBC646C4E3A"
+      },
+      {
+        "source": "23FFA711-0E45-224D-BFE5-1F650F153C3D",
+        "relation": "dep",
+        "target": "A1340802-54D4-D9FC-45F9-BEA0B9CF9D9F"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "76717883-B3F3-02B9-FBB4-C65C6394B28B"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "DF4EDCC9-CB70-BA32-E4D1-8D39C56C15E7"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "B49C4188-732D-E449-8EEC-ACC84E94B6B9"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "808C4F47-E42A-30B2-F5E9-CBDF2D49D3E0"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "3D605497-49A6-C7A2-D052-92D7BF6AB30D"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "0C77C4EE-DB2A-88F8-C84C-5673A0B750CC"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "C2914FBC-1E61-2D5B-ECAE-46645715A931"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "4ABB8EE9-1F00-BBAF-5132-FB20079EF42C"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "47F147E3-94A3-AC06-ADFF-9742A731D2DE"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "C0BEE733-493E-14FA-B3BC-C220D46D12E5"
+      },
+      {
+        "source": "F4022D99-F50F-EABF-9B60-B19ADFA5B760",
+        "relation": "dep",
+        "target": "D8C0C2FE-3508-39F2-F28C-C46CAE712426"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "CCFA2256-FECF-3D46-AA9B-D00E8D7A2629"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "2F75F280-5780-4CF8-19F9-31E29187DF34"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "6B0C29AF-D3E7-F98F-00D0-7E80FD4040C9"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "74ABB714-CF7E-11E2-81B3-FF7B187B1461"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "9C399DF8-65F2-8FDC-3CE3-4276F969CCF9"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "E3B3D103-BBA5-F8F3-C60B-E719F352A028"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "3E3B410C-39B1-2287-61F0-A8E6138D5EAD"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "12A93CE2-63AD-3FD8-5FC9-000F925E7954"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "04A0219A-DC77-9EBA-96A9-1331C58B7444"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "05459B01-4C4F-0093-9549-4464EEAB3086"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "4C3FA2A8-CDF4-85B0-B307-ED12BECE125E"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "64676839-02F5-43B7-E3B1-63763B8A513C"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "ED3AEF8B-E683-8AD3-C72D-9393D93A8475"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "07DACBF0-A0F9-7123-DF86-9CC516B2B786"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "27DF64F9-E0FE-EC95-AE82-52FEEA7CC8A1"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "04B71E4A-4098-3E12-1874-DE0A095712EB"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "01DCC646-411B-D680-9B29-896BFD6C12C8"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "AF79E9B9-8C0A-BD8A-8F8B-9714F8487EAE"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "AE2B67CA-F1FE-C906-9C98-BA0F210805A6"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "E812ACD4-121C-4F35-9386-466BE7297976"
+      },
+      {
+        "source": "64676839-02F5-43B7-E3B1-63763B8A513C",
+        "relation": "dep",
+        "target": "C9FB1DC4-C307-64F1-B84D-BF0CEA3F97D3"
+      },
+      {
+        "source": "E3B3D103-BBA5-F8F3-C60B-E719F352A028",
+        "relation": "dep",
+        "target": "E812ACD4-121C-4F35-9386-466BE7297976"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "99B2C050-97A8-FBBD-96A0-A0CDB034828F"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "B19A297C-8BD9-3423-7977-083828E99CD7"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "A4C2B8DB-5D4C-D0B7-53F1-D2E7DF9A6CCC"
+      },
+      {
+        "source": "12A93CE2-63AD-3FD8-5FC9-000F925E7954",
+        "relation": "dep",
+        "target": "0067B8D4-4D8F-0AB4-BCCD-3F2A93064A1F"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "96703398-16C3-DE44-3245-C135233CC15E"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "7F257437-DACE-0F32-D6AA-50FBD228DA16"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "685691A8-9426-F648-2E20-9B08D612FEC1"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "6B56FE7E-A3BD-2A49-5C0D-0166BBB56F3E"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "83C7E4AA-527D-DAB5-BFB0-8C8A2190D11A"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "E48CFADA-D739-5F80-AEC2-A3A79F088470"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "39A632C4-0653-A58E-95F1-0A4AE86E880C"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "5F9053B0-BA73-10D6-D669-5FFF339CBB6C"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "827704E9-92DF-17F2-A040-8774FCE2CEEA"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "BD21ADCB-0CCF-56E5-EBD4-D48677E75495"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "4B31A6C0-1958-9B10-4263-BEC186F1A68F"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "F822469A-5C1E-78C0-5B35-8AB0DEC92A99"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "8056E81B-7EA4-9309-263B-D823762BF8E0"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "A206D006-5D09-86B1-620F-D8428070D0E9"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "AFECDC4E-F1D8-E1BE-3145-53918747C198"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "5C7A6E48-965A-806C-C4C1-F6B66E58B9C8"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "2F9860D4-4CCD-FEEB-ED55-89EDB425C497"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "2F744A2D-9CB4-02A6-0A99-ED4C383613A6"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "CC22CBD0-37E7-71DC-DD31-16F6B01AF9C0"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "E0C062B2-9F77-5C96-C640-7742F8446D26"
+      },
+      {
+        "source": "57D23677-B0E8-BDB3-4721-02D26FC797C7",
+        "relation": "dep",
+        "target": "B44A16D4-70D3-EF3A-8693-3186CCC5B0DD"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "7DBAFCB0-5B6D-46CE-D014-D33E8571F650"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "71F68429-B9DF-094E-D062-C72D6BFF93FD"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "CA0613C3-7708-B266-E46D-50ED77DCDB43"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "BC18D200-4F0F-D55C-451B-F43C8EDB4492"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "BDCBFCD8-7737-0B35-4D89-06ACCA54769E"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "3D86A6CD-A17A-AE0A-8B5E-E1995659726F"
+      },
+      {
+        "source": "6B9A615C-C12A-8407-7FFC-CA9DC3B32E02",
+        "relation": "dep",
+        "target": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1"
+      },
+      {
+        "source": "BDCBFCD8-7737-0B35-4D89-06ACCA54769E",
+        "relation": "dep",
+        "target": "399BCB9F-EF91-9CF0-5720-D72F1DDC78EC"
+      },
+      {
+        "source": "BDCBFCD8-7737-0B35-4D89-06ACCA54769E",
+        "relation": "dep",
+        "target": "3E3B410C-39B1-2287-61F0-A8E6138D5EAD"
+      },
+      {
+        "source": "BDCBFCD8-7737-0B35-4D89-06ACCA54769E",
+        "relation": "dep",
+        "target": "7E5D4118-2110-C051-9745-4510F6AAB40F"
+      },
+      {
+        "source": "3E3B410C-39B1-2287-61F0-A8E6138D5EAD",
+        "relation": "dep",
+        "target": "399BCB9F-EF91-9CF0-5720-D72F1DDC78EC"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "1DDFC976-DAE8-0A03-DE62-A9B87D48E0DE"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "B24C9278-083C-DC77-A8D2-568A3C66B6ED"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C"
+      },
+      {
+        "source": "71F68429-B9DF-094E-D062-C72D6BFF93FD",
+        "relation": "dep",
+        "target": "48EA9B8C-D1F2-741C-069D-90CC9F7A4DAB"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "C97C113D-CD93-F746-A4D5-BA4C25AFFBF0"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "C582680E-0AFC-2D63-FA5B-33277830B212"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "49A9345F-5E49-A4BB-D307-6E6A6763B64E"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "16BCACD9-D45D-765E-8CA3-DB8E14020B27"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "3AE5F3C5-D0D6-2C6E-8592-39F7D4921BC7"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "01B38DAA-3188-4427-9699-34AE64E44E05"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "5994D34A-31D2-8F8E-8B0C-D074D72544DA"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "97460573-C897-D6D7-8E79-A17846BD40C7"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "BAF5061E-E824-6103-0F23-D703DF79F29A"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "08B9E608-8EBE-2DA9-AD2F-6EFCCFBF2D1A"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "DAE09B20-B383-4867-7BAB-91D4A22890BF"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "93680B0D-7F5D-3747-7CB3-C5EA471947A8"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "2DBFD0B1-BBAC-3035-5623-882FB58042A8"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "419BBACE-B344-9879-B31C-F2AF96D1AA51"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "A8E59789-343B-360F-DEE2-E18A8EC402F8"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "66D754BF-DD39-DB10-C45B-9F9773405CD2"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "8E6BA7F9-E1DD-50D1-7D4C-39131ED2812C"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "A31A93B6-E5CD-5F8A-69FB-932C93236832"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "8E9E29C0-942E-AB28-A86E-DB854EED3A66"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "A289C35F-F6C5-92E6-5104-B7C3BC423CDE"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "9D9E9C94-88FB-797E-D46A-EDDC23485BEA"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "EA643357-772A-8918-863E-D0818B6CCB5B"
+      },
+      {
+        "source": "FC6F3A18-85F0-8BF1-23F7-70780C4C0E4C",
+        "relation": "dep",
+        "target": "8B3D3C8D-1E5B-ABBD-3150-63731C02B6E6"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "1119FDB5-E3C4-7B1E-C902-712EF268643B"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "7B94329C-E8D2-550D-67A3-3FC167055198"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "2C9F8DF3-B109-BB03-4DFD-3271E91E385B"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "2F236473-85A4-801D-3E9F-387AB48FAF6F"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "C97C113D-CD93-F746-A4D5-BA4C25AFFBF0"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "7D9DB084-1A5C-53D2-DE27-61C57230FDAD"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "5BF17672-7E9E-FF60-6C44-7EB22857C567"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "56B59CAC-FCDE-D25B-C073-C740119680CB"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "D87B1B70-8E2A-3A5E-0CD7-0FDABC3C274F"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "36EA9E39-4BEE-964D-93C7-576E4D4B37DD"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "799EB148-803B-E7B1-E3FF-116162974757"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "2F34B476-483A-3A6F-2FD0-5EBE9094ED63"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "BFCD95ED-202A-633B-117D-546A89E8F34D"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "AA23CAC2-B02E-190D-FA65-B3C4A8A3A9E4"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "EE5548BE-E0DC-69DA-755A-B37E1F515583"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "6FCE8501-B682-69E0-A7F0-8130853B6A6A"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "11EB9F68-2C6E-F605-94EF-C4568EA107C6"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "4E391AAB-E7E1-913C-7304-E9EB61402F7D"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "88D669DA-0D2F-2335-0BD5-B4F6B7AF5A08"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "61FDC9BD-10B8-ECA2-95F4-B7BB399E8F42"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "70207CB3-2DF7-19A0-1502-9AC146705499"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "987E2C31-DB11-8571-FAA5-F225801258F1"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "A6638635-B12A-2317-E55E-83402C0163D8"
+      },
+      {
+        "source": "BC18D200-4F0F-D55C-451B-F43C8EDB4492",
+        "relation": "dep",
+        "target": "1C6D8D43-82A3-4C72-9647-F67790FBF19C"
+      },
+      {
+        "source": "A6638635-B12A-2317-E55E-83402C0163D8",
+        "relation": "dep",
+        "target": "5BF17672-7E9E-FF60-6C44-7EB22857C567"
+      },
+      {
+        "source": "11EB9F68-2C6E-F605-94EF-C4568EA107C6",
+        "relation": "dep",
+        "target": "2C9F8DF3-B109-BB03-4DFD-3271E91E385B"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "5BDDBF6C-31DF-387B-99FA-FD6767CCEEB4"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "2F47BB62-C3F5-CA33-56EB-32BC357DE45C"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "ECE9FD5B-2845-E948-0744-E40BC3A13491"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "DCE36F6D-159D-33F9-402B-2B1B96F83702"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "1F8B17CD-1474-5F9D-E4DE-916BF56CC0C7"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "E5A35CF3-5F3F-DD3C-ADDE-573DDB405C85"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "45ADB700-C56B-2203-8D13-2C3FF3498499"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "D156B7EB-3BD5-F638-3084-23731D5AD614"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "2BF5B2A6-C659-0D20-E060-46242A223DC9"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "54709795-208E-5B0F-FE02-BD7E52F8C4A0"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "83C7E4AA-527D-DAB5-BFB0-8C8A2190D11A"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "75249497-7119-1905-0712-9A6CA6A31905"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "5B7E7896-C161-B1B1-C85B-88B3A80014F2"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "1896D0C5-F606-CE3D-7478-07987865FD00"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "F898E3F2-662E-09D1-0928-6D8CAF37697D"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "035B01A8-1CD3-B689-C06D-923348A7A7C0"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "489F8049-E2F6-B9AA-434D-175FDD59D6A2"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "C0A0689A-E3F4-6FE5-FCAA-6D37270E2BC8"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "20B3A809-014D-BEFD-9BD5-5D78103BEDE8"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "DD8D46ED-4C1F-D76F-945C-8CDF4E0FF186"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "208D823B-B707-5DD6-960D-137C8E8D0B0E"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "DED90BFF-DEEC-CAED-9D09-78711AED3030"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "60E9B985-26D0-AF4E-B956-9BB836F74A30"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "1C92E0B9-04F9-D8ED-6D98-144DCFCF497C"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "B9B51239-004E-ED90-A04F-D6409EB05440"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "93483467-C090-D7F2-C23C-67D1B2AC2535"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "EBF2362D-50D3-6CBF-0832-CC1EAC9BBB4B"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "0798ED73-0E20-D823-DAFC-E88EBB81DDBE"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "1B714936-C659-A20E-03F6-E15643224FD3"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "DF61610B-0235-45A4-9A79-6AC6F6DFF85E"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "65859E6A-911E-2CB1-0335-FDA155F9C938"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "8467D4B6-1D85-7515-A147-1D1D903068E9"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "E209B480-2383-8396-35BF-71E89B576B9B"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "44B6C89A-B59D-1011-70E7-DB49052F968D"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "9DE437C9-78C5-CB94-1882-20D6198AEE54"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "4F0EE8A9-4903-1E31-2EAB-39364DC5C93F"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "8A942348-BA76-3B65-1B25-CED28C446236"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "F761B88D-041B-A38F-6749-CA4D83C1682A"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "D7697DC0-400D-AEBD-629F-EA55523FFEA6"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "C3D17360-3795-7360-5569-25B56BDFAA7C"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "3D021896-7EE3-2A9F-82AF-8BF9A95DB0A1"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "9EBB6D5C-4BE5-A611-CCE5-BC471B35C1B7"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "6CD64C2F-926F-52B2-E594-C241141218CD"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "0EF70FFD-C9C5-CA09-CE2A-3C2BC8185D0E"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "A5A3F6F2-54DA-4EC7-60B4-ECA6FD0369F6"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "D7C526C2-3653-C0C5-58D6-50CC7604E411"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "08191D4D-E88F-D234-5F10-BCFCA8D6FF60"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "BAC1AC95-C2F1-EA7B-59A1-FBE08FD265E9"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "3C983D8D-D88B-1385-16A8-2BB7AE1DFA16"
+      },
+      {
+        "source": "BD94AC45-89D5-5D1A-D2BE-1047FC6AFFA1",
+        "relation": "dep",
+        "target": "15E30560-074E-FD5E-09D0-144B809AAEAD"
+      },
+      {
+        "source": "65859E6A-911E-2CB1-0335-FDA155F9C938",
+        "relation": "dep",
+        "target": "0798ED73-0E20-D823-DAFC-E88EBB81DDBE"
+      },
+      {
+        "source": "9EBB6D5C-4BE5-A611-CCE5-BC471B35C1B7",
+        "relation": "dep",
+        "target": "1C92E0B9-04F9-D8ED-6D98-144DCFCF497C"
+      },
+      {
+        "source": "93483467-C090-D7F2-C23C-67D1B2AC2535",
+        "relation": "dep",
+        "target": "DED90BFF-DEEC-CAED-9D09-78711AED3030"
+      },
+      {
+        "source": "D156B7EB-3BD5-F638-3084-23731D5AD614",
+        "relation": "dep",
+        "target": "F898E3F2-662E-09D1-0928-6D8CAF37697D"
+      },
+      {
+        "source": "45ADB700-C56B-2203-8D13-2C3FF3498499",
+        "relation": "dep",
+        "target": "035B01A8-1CD3-B689-C06D-923348A7A7C0"
+      },
+      {
+        "source": "DF61610B-0235-45A4-9A79-6AC6F6DFF85E",
+        "relation": "dep",
+        "target": "D7C526C2-3653-C0C5-58D6-50CC7604E411"
+      }
+    ]
+  }
+}

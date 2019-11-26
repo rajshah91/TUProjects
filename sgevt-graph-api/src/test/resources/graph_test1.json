@@ -1,0 +1,48 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "F2E9AB76-532F-7A1A-9DA5-DBFD5473B5FA",
+        "label": "accompagner l'accueil",
+        "type": "objectif"
+      },
+      {
+        "id": "D7FE9FAB-CC74-05A0-3AAE-3D6726F73FB1",
+        "label": "confirmer le rôle des pôles comme élément structurant",
+        "type": "objectif"
+      },
+      {
+        "id": "9BCC8A1A-208C-2747-7901-87C01E473E23",
+        "label": "répondre aux besoins en logements des résidents",
+        "type": "objectif"
+      },
+      {
+        "id": "8BEBEBD8-1F43-4009-F3A4-77CB38991811",
+        "label": "promouvoir de nouvelles formes urbaines et résidentielles",
+        "type": "objectif"
+      }
+    ],
+    "edges": [
+      {
+        "source": "F2E9AB76-532F-7A1A-9DA5-DBFD5473B5FA",
+        "relation": "dep",
+        "target": "D7FE9FAB-CC74-05A0-3AAE-3D6726F73FB1"
+      },
+      {
+        "source": "F2E9AB76-532F-7A1A-9DA5-DBFD5473B5FA",
+        "relation": "dep",
+        "target": "9BCC8A1A-208C-2747-7901-87C01E473E23"
+      },
+      {
+        "source": "F2E9AB76-532F-7A1A-9DA5-DBFD5473B5FA",
+        "relation": "dep",
+        "target": "8BEBEBD8-1F43-4009-F3A4-77CB38991811"
+      },
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "B960AB45-196D-6B82-E181-CE4F6E2098DB"
+      }
+    ]
+  }
+}

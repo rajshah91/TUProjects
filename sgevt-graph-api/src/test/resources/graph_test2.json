@@ -1,0 +1,48 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "label": "accompagner LE DEVELOPPEMENT",
+        "type": "objectif"
+      },
+      {
+        "id": "B960AB45-196D-6B82-E181-CE4F6E2098DB",
+        "label": "garantir UNE VIE DE QUALITE",
+        "type": "objectif"
+      },
+      {
+        "id": "92E1007E-39CC-45E2-F0C8-2931869813AB",
+        "label": "répondre aux besoins en logements des résidents et des nouveaux arrivants",
+        "type": "objectif"
+      },
+      {
+        "id": "F2E9AB76-532F-7A1A-9DA5-DBFD5473B5FA",
+        "label": "accompagner l'accueil",
+        "type": "objectif"
+      }
+    ],
+    "edges": [
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "B960AB45-196D-6B82-E181-CE4F6E2098DB"
+      },
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "92E1007E-39CC-45E2-F0C8-2931869813AB"
+      },
+      {
+        "source": "E6178182-4169-2A38-C5CC-7E06AF8C5566",
+        "relation": "dep",
+        "target": "F3622FA0-617E-0BB9-787A-A34012126953"
+      },
+      {
+        "source": "F3622FA0-617E-0BB9-787A-A34012126953",
+        "relation": "dep",
+        "target": "2D108A76-4C40-094A-4DB8-8F1297CCDB38"
+      }
+    ]
+  }
+}
